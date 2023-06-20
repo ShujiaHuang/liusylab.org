@@ -1,5 +1,6 @@
-learn_from/
 public/
+resources/_gen/
+learn_from/
 
 *.swp
 
