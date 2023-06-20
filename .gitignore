@@ -1,0 +1,8 @@
+learn_from/
+public/
+
+*.swp
+
+.idea/
+.vscode
+.DS_Store
