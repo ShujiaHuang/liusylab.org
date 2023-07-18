@@ -34,7 +34,7 @@ font_size = "M"
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 #site_type = "Person"
-site_type = "EducationalOrganization"
+site_type = "Organization"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
@@ -181,7 +181,7 @@ plugins_css = []
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2006"
+  date_format = "2006-01-02"
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
@@ -212,7 +212,7 @@ plugins_css = []
 
   # Configuration of Disqus.
   [comments.disqus]
-    shortname = "rohitsalecha"  # Paste the shortname from your Disqus dashboard.
+    shortname = "username"  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
 
 ############################

@@ -4,52 +4,56 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "About Me"
+  name = "About"
   url = "#about"
+  weight = 1
+
+[[main]]
+  name = "People"
+  url = "#people"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "/#posts"
+  name = "News"
+  url = "/#event"
   weight = 20
-
-[[main]]
-  name = "Technology"
-  url = "/categories/technology/"
-  weight = 21
-  parent = "Posts"
-
-[[main]]
- name = "Publications"
- url = "#publications"
- weight = 30
 
 [[main]]
  name = "Projects"
  url = "#projects"
+ weight = 30
+
+[[main]]
+ name = "Publications"
+ url = "#publications"
  weight = 40
 
 [[main]]
-  name = "Speaking"
+  name = "Talks"
   url = "#talks"
   weight = 50
 
 [[main]]
+  name = "Posts"
+  url = "/#posts"
   weight = 60
+
+[[main]]
+  weight = 70
   name = "Notes"
   url = "/notes"
 
 [[main]]
+  parent = "Notes"
   name = "Tech"
   url = "/notes/technology/"
-  weight = 61
-  parent = "Notes"
+  weight = 71
 
 [[main]]
+  parent = "Notes"
   name = "Pentesting"
   url = "/notes/pentest/"
-  weight = 62
-  parent = "Notes"
+  weight = 72
 
 [[main]]
   name = "Contact"
