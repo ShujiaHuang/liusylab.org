@@ -9,7 +9,7 @@
   weight = 1
 
 [[main]]
-  name = "People"
+  name = "Peoples"
   url = "#people"
   weight = 10
 
@@ -38,22 +38,16 @@
   url = "/#posts"
   weight = 60
 
-[[main]]
-  weight = 70
-  name = "Notes"
-  url = "/notes"
+#[[main]]
+#  weight = 70
+#  name = "Notes"
+#  url = "/notes"
 
-[[main]]
-  parent = "Notes"
-  name = "Tech"
-  url = "/notes/technology/"
-  weight = 71
-
-[[main]]
-  parent = "Notes"
-  name = "Pentesting"
-  url = "/notes/pentest/"
-  weight = 72
+#[[main]]
+#  parent = "Notes"
+#  name = "Tech"
+#  url = "/notes/technology/"
+#  weight = 71
 
 [[main]]
   name = "Contact"

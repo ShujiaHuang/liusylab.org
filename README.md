@@ -43,7 +43,7 @@ hugo server --theme=hyde --minify --buildDrafts -w
 
 
 ## 参考
-
+- [CAI4CAI 实验室例子](https://cai4cai.ml/)
 - [hugo搭建个人博客1-基础建站](https://shuzang.github.io/2019/hugo-blog-build-personal-blog/)
 
 
