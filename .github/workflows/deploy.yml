@@ -1,0 +1,101 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Check Out
+        uses: actions/checkout@v2
+        with:
+          submodules: true
+          fetch-depth: 1
+
+      # hugo 完成博客编译, 该步骤将根据代码仓库按照 hugo 的规则自动生成网站的 public 目录
+      - name: Hugo Build
+        uses: jakejarvis/hugo-build-action@v0.82.0
+        with:
+          args: --minify
+
+      # 将 public 目录上传到一个 docker 或者容器中，具体是不是没细看。
+      # 这些都是自动产生的，放在哪我也不知道，本流程完成后系统自动销毁。
+      - name: Upload a Build Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: site
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # 将 build 步骤中生成的网站下载下来，放到 docker 或者容器里。
+      - name: Download a Build Artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: site
+
+      # 使用 SSH 链接远程云服务器，创建临时部署目录。要特别注意的是，
+      # 该目录与 ${{ secrets.ALIYUN_HK187_WEBSITE_PATH }} 相同
+      - name: SSH Remote login and create temporary directory
+        uses: appleboy/ssh-action@v0.1.4
+        with:
+          host: ${{ secrets.ALIYUN_HK187_HOST }}
+          username: ${{ secrets.ALIYUN_HK187_WEBSITE_USER }}
+          password: ${{ secrets.ALIYUN_HK187_WEBSITE_PASSWORD }}
+          script: sh ~/deploy_website/bin/creat_website_tmpdir.sh liusylab.org
+
+      # 本来要使用 Rsync 同步文件，但一直提示 'Permission denied (publickey,gssapi-with-mic,password).' 
+      # 这个问题，按照网上的解法全都试了一遍，结果还是不行，烦死了，放弃!
+      # - name: RSyncer Action
+      #  uses: Pendect/action-rsyncer@v1.1.0
+      #  env:
+      #    DEPLOY_KEY: ${{ secrets.ALIYUN_HK187_WEBSITE_KEY }}
+      #  with:
+      #    flags: '-avzr --delete'
+      #    src: './'
+      #    dest: '${{ secrets.ALIYUN_HK187_WEBSITE_USER }}@${{ secrets.ALIYUN_HK187_HOST }}:${{ secrets.ALIYUN_HK187_WEBSITE_PATH }}'
+
+      # 使用 SCP 将网站文件传到远端服务器，"source ./" 表示的是容器当前目录下的所有文件 
+      - name: SCP Files to aliyun
+        uses: appleboy/scp-action@v0.1.1
+        with:
+          source: ./
+          host: ${{ secrets.ALIYUN_HK187_HOST }}
+          username: ${{ secrets.ALIYUN_HK187_WEBSITE_USER }}
+          password: ${{ secrets.ALIYUN_HK187_WEBSITE_PASSWORD }}
+          target: ${{ secrets.ALIYUN_HK187_WEBSITE_PATH }}
+
+      # 使用 SSH 链接远程服务器，到服务器里将已经同步上去的文件移动
+      # 到网站真正的部署目录
+      - name: SSH Remote login and deploy
+        uses: appleboy/ssh-action@v0.1.4
+        with:
+          host: ${{ secrets.ALIYUN_HK187_HOST }}
+          username: ${{ secrets.ALIYUN_HK187_WEBSITE_USER }}
+          password: ${{ secrets.ALIYUN_HK187_WEBSITE_PASSWORD }}
+          script: sh ~/deploy_website/bin/deploy_website.sh liusylab.org
+
+
+
