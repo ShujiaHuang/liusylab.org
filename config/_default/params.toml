@@ -9,10 +9,12 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "Dark"
+#theme = "Dark" # "Mr Robot"
+theme = "Minimal"
 
 # Enable users to switch between day and night mode?
-day_night = false
+#day_night = false
+
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -33,7 +35,6 @@ font_size = "M"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-#site_type = "Person"
 site_type = "Organization"
 
 # Local business type (optional)
@@ -63,7 +64,7 @@ highlight_style = "monokai"  # For supported styles, see https://cdnjs.com/libra
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -76,7 +77,7 @@ privacy_pack = true
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+edit_page = {repo_url = "https://github.com/wowchemy/wowchemy-hugo-themes", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 ############################
 ## Contact details
@@ -134,7 +135,7 @@ twitter = ""
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "Jan 2, 2006"
+date_format = "Mon, Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "15:04"
 
@@ -181,7 +182,7 @@ plugins_css = []
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "2006-01-02"
+  date_format = "Jan 2, 2006"
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
