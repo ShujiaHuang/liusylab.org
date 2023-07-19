@@ -34,7 +34,7 @@ education:
     institution: 中山大学, 生命科学学院
     year: 2016/09 —— 2020/07
 
-  - course: Title2
+  - course: Title
     institution: Name of Institution
     year: YYYY/MM —— YYYY/MM
 
@@ -46,9 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: weibo
-  icon_pack: fab
-  link: https://weibo.com/USERNAME
+# - icon: weibo
+#   icon_pack: fab
+#   link: https://weibo.com/USERNAME
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=PERSON-ID
@@ -70,3 +70,10 @@ email: example@example.org
 user_groups:
  - Master Students
 ---
+
+## 个人简介
+
+
+
+
+

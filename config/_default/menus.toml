@@ -50,6 +50,11 @@
 #  weight = 71
 
 [[main]]
+  name = "Join us"
+  url = "#joinus"
+  weight = 80
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 90
