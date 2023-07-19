@@ -68,9 +68,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:liusy99@mail.sysu.edu.cn'  # For a direct email link, use "mailto:test@example.org".
-- icon: weibo
-  icon_pack: fab
-  link: https://weibo.com/
+# - icon: weibo
+#   icon_pack: fab
+#   link: https://weibo.com/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=9JFX62IAAAAJ
