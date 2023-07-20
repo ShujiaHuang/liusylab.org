@@ -45,7 +45,7 @@ education:
 certification:
   certificates:
   - certificate: 2018年度 深圳华大生命科学研究院 重大科研成果奖
-    institution: 2018年度 深圳华大生命科学研究院 重大科研成果奖
+    institution: 深圳华大生命科学研究院
     validity: Dec 2018
     link: 
 
@@ -57,7 +57,7 @@ certification:
   - certificate: 国家一等奖学金
     institution: 国家一等奖学金
     validity: 2007-2010
-    link: 
+    link:
 
 
 # Social/Academic Networking

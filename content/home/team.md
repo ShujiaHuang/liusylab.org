@@ -24,6 +24,7 @@ content:
   - Grad Students
   - Alumni
   - Administration
+  - External collaborator
 
 design:
   show_interests: false
