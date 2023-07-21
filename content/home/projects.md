@@ -1,9 +1,9 @@
 ---
 # A Projects section created with the Portfolio widget.
 widget: "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless: true  # This file represents a page section.
-active: true  # Activate this widget? true/false
-weight: 30  # Order that this section will appear.
+headless: true       # This file represents a page section.
+active: true         # Activate this widget? true/false
+weight: 30           # Order that this section will appear.
 
 title: "Projects"
 subtitle: ""
@@ -21,7 +21,7 @@ content:
   # To show all items, set `tag` to "\*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  buttons:
+  filter_button:
     - name: All
       tag: '*'
     - name: Deep Learning

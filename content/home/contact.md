@@ -53,7 +53,10 @@ formspree:
 netlify:
   # Enable CAPTCHA challenge to reduce spam?
   captcha: false
-  
+
+content:
+    
+
 design:
   columns: '1'
 ---
