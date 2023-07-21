@@ -9,13 +9,13 @@
   weight = 1
 
 [[main]]
-  name = "Team"
-  url = "#team"
+  name = "News"
+  url = "/#event"
   weight = 10
 
 [[main]]
-  name = "News"
-  url = "/#event"
+  name = "Team"
+  url = "#team"
   weight = 20
 
 [[main]]
