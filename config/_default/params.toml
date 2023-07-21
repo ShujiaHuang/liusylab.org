@@ -9,11 +9,11 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-#theme = "Dark" # "Mr Robot"
+#theme = "Dark"   # "Mr Robot"
 theme = "Minimal"
 
 # Enable users to switch between day and night mode?
-#day_night = false
+# day_night = false
 
 
 # Override the theme's font set (optional).
