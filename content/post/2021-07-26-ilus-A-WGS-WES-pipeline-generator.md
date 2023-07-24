@@ -1,6 +1,6 @@
 ---
-title: "ilus: 这是我写的一个轻量级全基因组（WGS）和全外显子（WES）最佳实践分析流程生成器"
-summary: "这是一个轻量、可拓展、半自动化的全基因组和全外显子分析流程生成器。"
+title: "ilus: 一个轻量级全基因组（WGS）和全外显子（WES）最佳实践分析流程生成器"
+summary: "一个轻量、可拓展、半自动化的全基因组和全外显子分析流程生成器。"
 
 categories: [bioinformatic, genomics]
 tags: [WGS, WES, pipeline]

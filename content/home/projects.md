@@ -25,8 +25,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Genomics
+      tag: genomics
     - name: Other
       tag: Demo
 
