@@ -4,7 +4,8 @@ summary: "一个轻量、可拓展、半自动化的全基因组和全外显子�
 
 categories: [bioinformatic, genomics]
 tags: [WGS, WES, pipeline]
-authors: [huangshujia]
+authors: 
+- Shujia Huang
 
 date: 2021-07-26
 lastmod: 2021-07-26

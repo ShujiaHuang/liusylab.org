@@ -4,7 +4,7 @@ name: 张三（Zhang San）
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- zhangsan
+- San Zhang
 
 # Is this the primary user of the site?
 superuser: false
