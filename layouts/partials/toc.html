@@ -58,7 +58,7 @@
     .toc-nav .nav-link {
       text-overflow: ellipsis;
       /* overflow: hidden; */
-      color: #fafafa;
+      color: #666666; /* #fafafa; */
     }
   
     /* Media Queries */
@@ -71,6 +71,7 @@
       }
     }
   </style>
+  
   <!-- toc.html -->
   <!-- ignore empty links with + -->
   {{ $headers := findRE "<h[1-4].*?>(.|\n])+?</h[1-4]>" .Content }}
