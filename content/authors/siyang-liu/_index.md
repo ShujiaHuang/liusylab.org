@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Prof. 刘斯洋
+name: 刘斯洋（Siyang Liu）
 
 # Username (this should match the folder name)
 authors:
-- Prof. Siyang Liu
+- Siyang Liu
 
 # Is this the primary user of the site?
 superuser: true
