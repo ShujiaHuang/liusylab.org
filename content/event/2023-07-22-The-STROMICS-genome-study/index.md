@@ -47,7 +47,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- example
+- Stroke-Omics-Atlas
 ---
 
 （新闻摘要）2023年7月22日，来自中山大学刘斯洋课题组与首都医科大学附属天坛医院王拥军教授团队在国际知名生物医学期刊 *Cell Discovery* 上发表了题为“The STROMICS Genome Study: Deep whole-genome sequencing and analyses of 10K Chinese Patients with Ischeamic Stroke Reveal Complex Genetic and Phenotypic Interplay”的研究论文，该研究首次发布中国万人卒中队列的全基因组研究，建立了卒中领域最大的多组学平台STROMICS，为进一步利用遗传学研究缺血性卒中发生发展机制、发现新的治疗靶点和推进精准医学提供了基础。
