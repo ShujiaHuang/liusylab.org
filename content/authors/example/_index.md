@@ -14,8 +14,8 @@ role: XX 专业在读硕士研究生
 
 # Organizations/Affiliations
 organizations:
-- name: 中山大学公共卫生学院(深圳) 
-  url: https://phs.sysu.edu.cn/zh-hans
+- name: "School of Public Health (Shenzhen), Sun Yat-sen University" 
+  url: https://phs.sysu.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
 bio: 中山大学公共卫生学院(深圳) XX 专业在读硕士研究生
@@ -23,20 +23,24 @@ bio: 中山大学公共卫生学院(深圳) XX 专业在读硕士研究生
 
 # List each interest with a dash 
 interests:
-- Interest1
-- Interest2
+  - Interest1
+  - Interest2
 
 
-# 教育和经历
+# 教育经历
 education:
   courses:
-  - course: 理学学士，XX 专业
-    institution: 中山大学, 生命科学学院
-    year: 2016/09 —— 2020/07
+    - course: 理学学士，XX 专业
+      institution: School of Public Health (Shenzhen), Sun Yat-sen University
+      year: 2016/09 —— 2020/07
 
-  - course: Title
-    institution: Name of Institution
-    year: YYYY/MM —— YYYY/MM
+    - course: 理学学士，XX 专业
+      institution: 中山大学, 生命科学学院
+      year: 2016/09 —— 2020/07
+
+    - course: Title
+      institution: Name of Institution/School
+      year: YYYY/MM —— YYYY/MM
 
 
 # Social/Academic Networking
@@ -79,13 +83,13 @@ user_groups:
 #  - Alumni
 #  - External collaborator
 
-# 如果设置为 true 则不会在发布的网站中显示
-draft: false
+# 如果设置为 true 则不会在网站中显示
+draft: true
 ---
 
 ## 个人简介
 
-使用 [Markdown](https://markdown.com.cn/) 语法编写。
+ 请使用 [Markdown](https://markdown.com.cn/) 语法编写。
 
 
 

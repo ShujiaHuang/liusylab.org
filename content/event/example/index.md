@@ -17,8 +17,8 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2017-01-01"
+date_end: "2017-01-01"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -58,6 +58,9 @@ slides: example
 #   Otherwise, set `projects = []`.
 projects:
 - example
+
+# 不在正在发布的网站上显示，仅仅只是测试用的例子
+draft: true
 ---
 
 Slides can be added in a few ways:

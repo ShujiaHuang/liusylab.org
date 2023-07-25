@@ -14,7 +14,7 @@ role: 中山大学公共卫生学院（深圳） 副教授 (博士生导师)，�
 
 #Organizations/Affiliations:
 organizations:
-- name: "中山大学公共卫生学院（深圳）"
+- name: "School of Public Health (Shenzhen), Sun Yat-sen University"
   url: "https://phs.sysu.edu.cn/zh-hans/teacher/390"
 
 # Short bio (displayed in user profile at end of posts)
