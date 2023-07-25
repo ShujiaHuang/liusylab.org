@@ -80,6 +80,8 @@ user_groups:
 #  - Administration
 #  - External collaborator
 
+# 如果设置为 true 则不会在发布的网站中显示
+draft: false
 ---
 
 ## 个人简介

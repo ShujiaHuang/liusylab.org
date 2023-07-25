@@ -70,7 +70,8 @@ email: hshujia@qq.com
 user_groups:
  - External collaborator
 
-draft: true
+# 如果设置为 true 则不会在发布的网站中显示
+draft: false
 ---
 
 ## 简介
