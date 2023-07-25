@@ -16,15 +16,14 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Principal Investigator
-  - Research Assistants
-  - Postdocs
-  - Ph.D. Students
-  - Master Students
-  - Grad Students
-  - Alumni
-  - Administration
-  - External collaborator
+    - Principal Investigator
+    - Postdocs
+    - Ph.D. Students
+    - Master Students
+    - Research Assistants
+    - Grad Students
+    - Alumni
+    - External collaborator
 
 design:
   show_interests: false

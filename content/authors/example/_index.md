@@ -71,13 +71,12 @@ email: zhangsan@example.org
 # Organizational groups that you belong to (for People widget)
 user_groups:
 #  - Principal Investigator
-#  - Research Assistants
 #  - Postdocs
 #  - Ph.D. Students
  - Master Students
+#  - Research Assistants
 #  - Grad Students
 #  - Alumni
-#  - Administration
 #  - External collaborator
 
 # 如果设置为 true 则不会在发布的网站中显示

@@ -44,6 +44,10 @@ social:
   icon_pack: fas
   link: 'mailto:hshujia@qq.com'
 
+- icon: blog
+  icon_pack: fas
+  link: https://huangshujia.com
+
 - icon: weixin
   icon_pack: fab
   link: https://static.fungenomics.com/images/2022/12/helixminer-mid-red.png
