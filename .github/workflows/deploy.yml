@@ -57,7 +57,7 @@ jobs:
           name: site
 
       # 使用 SSH 链接远程云服务器，创建临时部署目录。要特别注意的是，
-      # 该目录与 ${{ secrets.ALIYUN_HK187_WEBSITE_PATH }} 相同
+      # 该目录与 ${{ secrets.WEBSITE_TMP_DEPLOY_PATH }} 相同
       - name: SSH Remote login and create temporary directory
         uses: appleboy/ssh-action@v0.1.4
         with:
@@ -75,7 +75,7 @@ jobs:
       #  with:
       #    flags: '-avzr --delete'
       #    src: './'
-      #    dest: '${{ secrets.ALIYUN_HK187_WEBSITE_USER }}@${{ secrets.ALIYUN_HK187_HOST }}:${{ secrets.ALIYUN_HK187_WEBSITE_PATH }}'
+      #    dest: '${{ secrets.WEBSITE_REMOTE_USER_ID }}@${{ secrets.LIUSYLAB_HOST }}:${{ secrets.WEBSITE_TMP_DEPLOY_PATH }}'
 
       # 使用 SCP 将网站文件传到远端服务器，"source ./" 表示的是容器当前目录下的所有文件 
       - name: SCP Files to aliyun
