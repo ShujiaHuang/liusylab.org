@@ -1,5 +1,5 @@
 ---
-title: "专利：一种基于基因组组装的变异检测方法和装置"
+title: "国家专利（已授权）：一种基于基因组组装的变异检测方法和装置"
 
 authors:
 - Shujia Huang
@@ -21,7 +21,7 @@ publication_types: ["8"]
 publication: "*国家知识产权局*"
 publication_short: ""
 
-abstract: ""
+abstract: "第二发明人"
 
 
 # Summary. An optional shortened abstract.
