@@ -1,0 +1,16 @@
+/*************************************************
+ *  Page content
+ * 自定义 page 页面内容显示的风格
+ * 官方参考文档: https://wowchemy.com/docs/hugo-tutorials/extending-wowchemy/#customize-style-css
+ * 我这里修改涉及到对主题 scss 的覆盖：themes/academic/assets/scss/academic/_content.scss
+ * 我参照了 Reddit 这个讨论：https://www.reddit.com/r/gohugo/comments/yxrl00/hugo_academic_custom_css/
+ **************************************************/
+
+/* 该 article-container 的值将优先于主题中 themes/academic/assets/scss/academic/_content.scss 的值被网站使用 */
+.article-container {
+    text-align: justify;  /* 把默认的左对齐改为两端对齐 */
+    opacity: 1.0;
+    width: 100%;
+    height: auto;
+}
+
