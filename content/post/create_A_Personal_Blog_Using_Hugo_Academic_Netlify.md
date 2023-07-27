@@ -4,8 +4,10 @@
 title: "Create A Personal Blog Using Hugo Academic Netlify"
 subtitle: "Create your own personal blog using Hugo Academic and Netlify"
 summary: "If you are tired of maintaining a blog on popular blogging websites and looking for a simple and easy to use blogging platform then read on ! "
-authors: [liusiyang]
-tags: [blog,hugo,netlify,academic]
+authors:
+    - Shujia Huang
+    - Siyang Liu
+tags: [blog,hugo,academic]
 categories: [Technology]
 date: 2019-12-13T11:12:27+05:30
 lastmod: 2019-12-13T11:12:27+05:30
