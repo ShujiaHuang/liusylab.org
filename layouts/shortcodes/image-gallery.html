@@ -1,0 +1,39 @@
+{{/* 配置参数 */}}
+{{ $galleryDir := string (.Get "gallery_dir") }}
+{{ $imageWidth := 300 }}
+{{ $imageHeight := 300 }}
+{{ $thumbnailWidth := 1600 }}
+{{ $thumbnailHeight := 1600 }}
+{{ $thumbnailQuality := 50 }}
+{{ $imageQuality := 50 }}
+
+{{/* 输出 $galleryDir 变量的值到命令行, 测试完成后要删除*/}}
+{{ printf "Gallery Directory: " }}
+{{ printf "Gallery Directory: %s" $galleryDir }}
+
+
+{{/* 图片展示网页 */}}
+<style>
+    .image-gallery { overflow: auto; margin-left: -1%!important; }
+    .image-gallery li { float: left; display: block; margin: 0 0 1% 1%; width: 19%; }
+    .image-gallery li a { text-align: center; text-decoration: none!important; color: #777; }
+    .image-gallery li a span { display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0; }
+    .image-gallery li a img { width: 100%; display: block; }
+</style>
+
+<ul class="image-gallery">
+    {{ range (readDir (print "/content/" $galleryDir)) }}
+        {{- $image := resources.Get (printf "%s/%s" $galleryDir .Name) -}}
+        {{- $imageURL := printf "%s/%s" $galleryDir .Name -}}
+        {{- $imageTitle := index (split .Name ".") 0 -}}
+
+        <li>
+            <a href="{{ ($image.Fit (printf "%dx%d q%d" $thumbnailWidth $thumbnailHeight $thumbnailQuality)).Permalink }}" title="{{ $imageTitle }}" class="lightbox-image">
+                <img src="{{ ($image.Fill (printf "%dx%d q%d" $imageWidth $imageHeight $imageQuality)).Permalink }}" alt="{{ $imageTitle }}" title="{{ $imageTitle }}">
+                <span>{{ $imageTitle }}</span>
+            </a>
+        </li>
+
+    {{ end }}
+</ul>
+
