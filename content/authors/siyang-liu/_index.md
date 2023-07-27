@@ -108,7 +108,7 @@ user_groups:
 
 （2）率先建立基于大规模超低深度测序数据探究复杂疾病与数量性状遗传与分子特征的方法，阐明中国人群的进化历史与血浆病毒感染模式，揭示生育年龄、双胎妊娠等生育力性状相关基因。
 
-主持国自然基金、深圳市稳定支持面上项目、参与国家重点研发计划、广东省区域联合基金等项目。以第一作者或通讯作者（含共同）在CELL、NATURE等期刊发表论文10余篇，获授权专利2项。
+主持国自然基金、深圳市稳定支持面上项目、参与国家重点研发计划、广东省区域联合基金等项目。以第一作者或通讯作者（含共同）在CELL、NATURE等期刊发表论文10余篇，获授权专利2项。近五年来总发表文章被引超过 1400 次，单篇被引用超过 100 次的文章 5 篇。
 
 
 **讲授课程**
@@ -132,7 +132,7 @@ user_groups:
 
 **代表性文章**
 
-至今发表SCI论文二十余篇，详见 [Google scholar Siyang Liu](https://scholar.google.com/citations?user=9JFX62IAAAAJ)
+至今发表SCI论文二十余篇，近五年来 h-index 18，详见 [Google scholar Siyang Liu](https://scholar.google.com/citations?user=9JFX62IAAAAJ)
 
 
 **兼职情况**
