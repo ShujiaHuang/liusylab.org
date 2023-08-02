@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 黄树嘉（Shujia Huang）
+name: Shujia Huang（黄树嘉）
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -55,6 +55,10 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=J4frGNMAAAAJ
+
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2100-2534
 
 - icon: github
   icon_pack: fab

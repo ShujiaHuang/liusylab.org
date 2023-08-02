@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 刘斯洋（Siyang Liu）
+name: Siyang Liu（刘斯洋）
 
 # Username (this should match the folder name)
 authors:
@@ -44,20 +44,25 @@ education:
 
 certification:
   certificates:
-  - certificate: 2018年度 深圳华大生命科学研究院 重大科研成果奖
-    institution: 深圳华大生命科学研究院
-    validity: Dec 2018
-    link: 
+    - certificate: 鹏城孔雀计划高端人才（B 类）
+      institution: 深圳市科技创新委员会
+      validity: 2018
+      link: 
 
-  - certificate: Danish Government Scholarship
-    institution: Danish Government Scholarship
-    validity: 2012-2014
-    link: 
+    - certificate: 2018年度 深圳华大生命科学研究院 重大科研成果奖
+      institution: 深圳华大生命科学研究院
+      validity: 2018
+      link: 
 
-  - certificate: 国家一等奖学金
-    institution: 国家一等奖学金
-    validity: 2007-2010
-    link:
+    - certificate: Danish Government Scholarship (Fully-Funded)
+      institution: University of Copenhagen
+      validity: 2012-2014
+      link: https://studies.ku.dk/masters/tuition-fees--scholarships/scholarships--loans-at-ucph/danish-government-scholarships/
+
+    - certificate: 国家一等奖学金 (连续三年)
+      institution: 中山大学
+      validity: 2007-2010
+      link: https://xxgk.sysu.edu.cn/article/219
 
 
 # Social/Academic Networking
@@ -67,16 +72,24 @@ certification:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:liusy99@mail.sysu.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:liusy99@mail.sysu.edu.cn'
+
 # - icon: weibo
 #   icon_pack: fab
 #   link: https://weibo.com/
+
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=9JFX62IAAAAJ
+
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org
+
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Siyang-Liu-15
+
 - icon: github
   icon_pack: fab
   link: https://github.com/
