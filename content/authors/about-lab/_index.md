@@ -21,10 +21,10 @@ organizations:
 bio:
 
 # List each interest with a dash
-interests:
-  - Genomic and systematic epidemiological studies of complex diseases
-  - Inheritance and evolution of human health and disease traits
-  - Research and development of bioinformatics algorithms based on high-throughput sequencing data
+# interests:
+#   - Genomic and systematic epidemiological studies of complex diseases
+#   - Inheritance and evolution of human health and disease traits
+#   - Research and development of bioinformatics algorithms based on high-throughput sequencing data
 
 ---
 
