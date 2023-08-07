@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Siyang Liu（刘斯洋）
+name: Siyang Liu
 
 # Username (this should match the folder name)
 authors:
