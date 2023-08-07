@@ -80,13 +80,13 @@ user_groups:
   # - External collaborator
 
 # user_groups:  这是原本我所设置的分类，斯洋不同意
-  #  - Postdocs
-  #  - Ph.D. Students
+  # - Postdocs
+  # - Ph.D. Students
   # - Master Students
-  #  - Research Assistants
-  #  - Grad Students
-  #  - Alumni
-  #  - External collaborator
+  # - Research Assistants
+  # - Grad Students
+  # - Alumni
+  # - External collaborator
 
 
 # 如果设置为 true 则不会在网站中显示
