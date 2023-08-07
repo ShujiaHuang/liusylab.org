@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 中山大学公共卫生学院（深圳） 副教授 (博导)
+role: Associate Professor, School of Public Health (Shenzhen), Sun Yat-sen University
 
 #Organizations/Affiliations:
 organizations:
@@ -18,39 +18,50 @@ organizations:
   url: "https://phs.sysu.edu.cn/zh-hans/teacher/390"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 中山大学公共卫生学院(深圳) 副教授，博士生导师，基因组学研究员。长期专注于人类基因组学与生物信息学研究，通过已有或者从头研发的生物信息、统计学、机器学习算法，系统地解析人类疾病与性状的关键基因、遗传与演化特征和因果性环境风险因素，以探索复杂疾病的分子与系统病因，建立个体与人群疾病预警与干预模型。
+bio: Focused on human genomics and bioinformatics research
+
+experience:
+  - title = "副教授(博导)"
+  - company = "中山大学公共卫生学院（深圳）"
+  - company_url = "https://phs.sysu.edu.cn/zh-hans"
+  - location = "Shenzhen"
+  - date_start = "2021-01-01"
+  - date_end = ""
+  - description = """
 
 interests:
-- 复杂疾病的基因组、分子、系统流行病学研究
-- 人类健康与疾病性状的遗传与演化规律
-- 基于高通量测序数据的生物信息学算法研发
+- Systematic Epidemiological Research Based on Medical Big Data/Genetic basis of phenotypes, behaviors and diseases 
+- Genetics and evolution
+- Bioinformatics algorithm development
 
 
 education:
 
   courses:
-  - course: 生物信息学博士
-    institution: 丹麦哥本哈根大学
-    year: 2015/05 —— 2017/12
+  - course: PhD in Bioinformatics
+    institution: Bioinformatics Center, University of Copenhagen
+    supervisor: Profs. Anders Krogh & Anders Albrechtsen
+    year: 2015/05 — 2017/12
 
-  - course: 生物信息学硕士
-    institution: 丹麦哥本哈根大学，
-    year: 2012/09 —— 2015/04
+  - course: MSc in Bioinformatics
+    institution: Bioinformatics Center, University of Copenhagen
+    supervisor: Profs. Anders Krogh
+    year: 2012/09 — 2015/04
 
-  - course: 理学学士
-    institution: 中山大学, 生命科学学院
+  - course: BSc in Ecology
+    institution: Department of Life Science, Sun Yat-sen University
     year: 2007/09 —— 2011/07
 
 
 certification:
   certificates:
-    - certificate: 鹏城孔雀计划高端人才（B 类）
-      institution: 深圳市科技创新委员会
+    - certificate: Shenzhen Overseas High-Caliber Personnel (B class)
+      institution: Shenzhen Science and Technology Innovation Committee
       validity: 2018
       link: 
 
-    - certificate: 2018年度 深圳华大生命科学研究院 重大科研成果奖
-      institution: 深圳华大生命科学研究院
+    - certificate: 2018 Important Scientific Research Achievement Award
+      institution: BGI-Shenzhen Life Science Institute
       validity: 2018
       link: 
 
@@ -59,8 +70,8 @@ certification:
       validity: 2012-2014
       link: https://studies.ku.dk/masters/tuition-fees--scholarships/scholarships--loans-at-ucph/danish-government-scholarships/
 
-    - certificate: 国家一等奖学金 (连续三年)
-      institution: 中山大学
+    - certificate: Chinese National Governmental Scholarship (3 consecutive years)
+      institution: Sun Yat-sen University
       validity: 2007-2010
       link: https://xxgk.sysu.edu.cn/article/219
 
@@ -84,7 +95,7 @@ social:
 
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org
+  link: https://orcid.org/0000-0001-6780-9419
 
 - icon: researchgate
   icon_pack: fab
@@ -108,58 +119,59 @@ social:
 user_groups: 
   - Principal Investigator
 
-# organizations:
-#   - name: School of Public Health (Shenzhen), Sun-Yat-Sen University, China
-#     url: https://phs.sysu.edu.cn/zh-hans/teacher/390
+organizations:
+  - name: School of Public Health (Shenzhen), Sun-Yat-Sen University, China
+    url: https://phs.sysu.edu.cn/zh-hans/teacher/390
 ---
 
-刘斯洋，中山大学公共卫生学院(深圳) **一级副教授，博士生导师，基因组学研究员**，中山大学百人计划引进人才。长期专注于人类基因组学与生物信息学研究，通过已有或者从头研发的生物信息、统计学、机器学习算法，系统地解析人类疾病与性状的关键基因、遗传与演化特征和因果性环境风险因素，以探索复杂疾病的分子与系统病因，建立个体与人群疾病预警与干预模型。
+Dr. Liu is an Associate Professor and Ph.D. supervisor at the School of Public Health (Shenzhen), Sun Yat-sen University. Her group focused on human genomics and bioinformatics research. Her expertise lies in the systematic analysis of key genes, genetic and evolutionary features, and causative environmental risk factors associated with human diseases and traits through bioinformatics, statistical, and machine learning algorithms. Her research aims to explore the molecular and systemic etiology of complex diseases and establish individual and population disease prediction and intervention models. Her major academic contributions include:
 
-**主要学术贡献**包括:
+- Development of precise structural variation detection algorithms and elucidation of the frequency distribution and evolutionary patterns of structural variations in a pedigree population (co-first author in Nature, co-first author in Nature Communications, first author in GigaScience).
+- Pioneering the use of large-scale ultra-low-depth sequencing data to investigate the genetics and molecular characteristics of complex diseases and quantitative traits, revealing the evolutionary history and plasma virus infection patterns in the Chinese population, and uncovering genes related to reproductive traits such as fertility age and twin pregnancy (first author in Cell).
 
-（1）研发精确的结构性变异检测算法，并在家系人群中阐明结构性变异的频率分布与演化规律；
-
-（2）率先建立基于大规模超低深度测序数据探究复杂疾病与数量性状遗传与分子特征的方法，阐明中国人群的进化历史与血浆病毒感染模式，揭示生育年龄、双胎妊娠等生育力性状相关基因。
-
-主持国自然基金、深圳市稳定支持面上项目、参与国家重点研发计划、广东省区域联合基金等项目。以第一作者或通讯作者（含共同）在CELL、NATURE等期刊发表论文10余篇，获授权专利2项。近五年来总发表文章被引超过 1400 次，单篇被引用超过 100 次的文章 5 篇。
+Her work was published in high-profile journals such as CELL, NATURE, and Cell Discovery as a (co)-first or (co)-corresponding author and funded by the National Natural Science Foundation of China, Shenzhen Stable Support Fund, Guangdong Provincial Basic and Applied Basic Research Fund and National Key Research and Development Program.
 
 
-**讲授课程**
-
-- 《医学信息学基础与实验》
-- 《医学信息学编程》
-- 《Python与计算生物学》
-- 《卫生统计学》
-- 《生物信息学》
-- 《流行病学》
-
-**承担课题及科研项目**
-
-- 国家重点研发计划项目, 基于多组学的缺血性脑血管病发生发展机制研究，2022.12-2025.12, 课题骨干，在研
-- 国家重点研发计划项目, 新冠病毒等呼吸道病毒感染和传播特性研究，2021.12-2024.11, 课题骨干，在研
-- 广东省基础与应用基础研究区域联合基金-重点项目，2022.01-2025.09, 课题负责人，在研
-- 深圳市稳定支持面上项目, 2022.09.01-2025.08.31, 主持，在研
-- 中山大学“百人计划”启动项目，2021.01-2023.12, 主持，在研
-- 国家自然科学基金青年项目，2020.01-2022.12，主持，在研
 
 
-**代表性文章**
+**Research Career**
 
-至今发表SCI论文二十余篇，近五年来 h-index 18，详见 [Google scholar Siyang Liu](https://scholar.google.com/citations?user=9JFX62IAAAAJ)
-
-
-**兼职情况**
-
-- 国家神经系统疾病临床医学研究中心，卒中多组学创新中心，特聘教授
-- 深圳华大生命科学研究院，专家顾问
-- Frontier in Genetics, 客座编辑
-- Genome Denmark Consortium 成员，基于高深度基因组测序进行生物信息学算法开发，侧重基于二代和三代测序技术与群体数据的结构性变异识别分型
+- 2021 - present:  Associate professor, Sun Yat-sen University, School of Public Health (Shenzhen)
+- 2020 – 2021:  Senior Research Scientist, BGI-Shenzhen Life-Science Institute
+- 2018 – 2019:  Senior Engineer in Information Research and Development, BGI-shenzhen Life-Science Institute
 
 
-**学生培养**
 
-毕业5位硕士研究生。在读3位博士研究生，5位硕士研究生。
+**Teaching**
 
----
+- Fundamentals and Experiments in Medical Informatics
+- Medical Informatics Programming
+- Python and Computational Biology
+- Medical statistics
+- Bioinformatics
+- Epidemiological Methods and Applications
 
-> What I cannot create, I do not understand. -- Richard Feynman.
+
+**Grants**
+
+- National Key Research and Development Program Project: Mechanisms of Ischemic Cerebrovascular Disease Occurrence and Development Based on Multi-omics Approaches, 2022.12 – 2025.12, 15,000,000RMB, Project Core Member
+- National Key Research and Development Program Project: Research on Infection and Transmission Characteristics of Respiratory Viruses, Including the Novel Coronavirus, 2021.12 – 2024.11, 29,570,000RMB, Project Core Member
+- Guangdong Provincial Basic and Applied Basic Research Fund - Key Project: 2022.01 – 2025.09, 1,000,000 RMB, co-Principal Investigator
+- Shenzhen Stable Support Program: 2022.09.01 – 2025.08.31, 300,000RMB, Principal Investigator
+- Sun Yat-sen University "Hundred Talents Program": 2021.01 – 2023.12, 600,000 RMB, Principal Investigator
+- National Natural Science Foundation of China (NSFC) Young Scientists Fund Project: 2020.01 – 2022.12, 250,000 RMB, Principal Investigator
+
+
+
+**Publication**
+
+- h-index 18, details: [Google scholar Siyang Liu](https://scholar.google.com/citations?user=9JFX62IAAAAJ)
+
+
+**Concurrent post**
+
+- Professor in Genomics, BGI-Shenzhen Life-Science Institute 
+- Professor in Bioinformatics, Center of Excellence for Omics Research, Beijing Tiantan Hospital
+- Guest editor, Frontier in Genetics
+- Genome Denmark Consortium (2012-2017)
+
