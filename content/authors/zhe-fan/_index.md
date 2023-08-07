@@ -20,8 +20,8 @@ organizations:
 # Organizational groups that you belong to (for People widget)
 user_groups:
   # - Postdocs
-  # - Ph.D. Students
-  - Master Students
+  - Ph.D. Students
+  # - Master Students
   # - Research Assistants
   # - Grad Students
   # - Alumni

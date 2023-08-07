@@ -34,15 +34,20 @@ content:
   filter_button:
     - name: "All"
       tag: "*"
+    
+    - name: "Statistics"
+      tag: "statistics"
+
+    - name: "Programing"
+      tag: "programing"
+  
+    - name: "AI/Bioinformatics"
+      tag: "machine learning"
+      tag: "bioinformatics"
 
     - name: "Talks"
       tag: "talk"
 
-    - name: "Teaching"
-      tag: "course"
-  
-    - name: "Upcoming"
-      tag: "upcoming"
     
 design:
   columns: 2
@@ -52,7 +57,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 3
   
   
 advanced:
@@ -62,5 +67,3 @@ advanced:
  # CSS class.
  css_class: ""
 ---
-
-Coming soon ...

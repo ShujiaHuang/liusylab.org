@@ -15,7 +15,7 @@ role:
 # Organizations/Affiliations
 organizations:
     - name: School of Public Health (Shenzhen), Sun Yat-sen University 
-      url: https://phs.sysu.edu.cn
+      url: https://phs.sysu.edu.cn/zh-hans/teacher/390
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -26,6 +26,14 @@ bio:
 #   - Inheritance and evolution of human health and disease traits
 #   - Research and development of bioinformatics algorithms based on high-throughput sequencing data
 
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:liusy99@mail.sysu.edu.cn'
 ---
 
 The majority of human diseases are influenced by genomic variations. Therefore, elucidating the relationship between genomic sequences and biological traits as well as diseases, along with the interplay between genes and the environment, constitutes a powerful approach to understanding disease mechanisms and discovering new strategies for disease prevention and treatment. The advancements in domestic and international biobanks and sequencing technologies have provided unprecedented opportunities for identifying disease-causing genes and reconstructing biological networks. However, achieving the aforementioned objectives, whether through bioinformatics methods or mechanistic research approaches, still requires new breakthroughs. 
