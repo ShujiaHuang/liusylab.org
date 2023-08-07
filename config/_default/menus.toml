@@ -10,13 +10,8 @@
 
 [[main]]
   name = "News"
-  url = "#event"
+  url = "#news"
   weight = 10
-
-[[main]]
-  name = "Meet the Team"
-  url = "#team"
-  weight = 20
 
 [[main]]
  name = "Projects"
@@ -29,14 +24,14 @@
  weight = 40
 
 [[main]]
-  name = "Talks"
+  name = "Talks/Teaching"
   url = "#talks"
   weight = 50
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 60
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 60
 
 #[[main]]
 #  weight = 70
@@ -48,6 +43,12 @@
 #  name = "Tech"
 #  url = "/notes/technology/"
 #  weight = 71
+
+[[main]]
+  name = "Meet the Team"
+  url = "#team"
+  weight = 70
+
 
 [[main]]
   name = "Join us"
