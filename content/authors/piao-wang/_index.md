@@ -19,10 +19,7 @@ organizations:
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-    # - Principal Investigator
-    # - Current members  # 学生都统称团队成员
-    - Grad Students
-    # - External collaborator
+    - Former Students
 
 # 如果设置为 true 则不会在网站中显示
 draft: false
