@@ -20,7 +20,7 @@ publication_types: ["8"]
 publication: "*欧洲专利*"
 publication_short: ""
 
-abstract: "第一发明人"
+abstract: "The first inventor (rank 1/3)"
 
 
 # Summary. An optional shortened abstract.

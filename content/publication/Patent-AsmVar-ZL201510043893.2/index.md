@@ -21,11 +21,11 @@ publication_types: ["8"]
 publication: "*国家知识产权局*"
 publication_short: ""
 
-abstract: "第二发明人"
+abstract: "The second inventor (rank 2/4)"
 
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "A Mutation Detection Method and Device Based on Genome Assembly"
 
 tags:
 - Interneurons

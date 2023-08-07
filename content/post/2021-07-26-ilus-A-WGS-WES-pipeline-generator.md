@@ -27,7 +27,7 @@ draft: false
 #   Otherwise, set `projects = []`.
 projects: []
 
-
+draft: true
 ---
 
 ![cover-image](https://static.fungenomics.com/images/2021/07/pexels-photo-262577.jpeg)

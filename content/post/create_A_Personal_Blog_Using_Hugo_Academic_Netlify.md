@@ -28,6 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+draft: true
 ---
 
 ![cover](https://static.fungenomics.com/images/2021/07/pexels-photo-262577.jpeg)

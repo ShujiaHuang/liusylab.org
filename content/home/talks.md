@@ -7,7 +7,7 @@ headless: true       # This file represents a page section.
 active: true         # Activate this widget? true/false
 weight: 50           # Order that this section will appear.
 
-title: "Talks/Trainings"
+title: "Talks/Teaching"
 subtitle: ""
 
 content:
@@ -38,8 +38,8 @@ content:
     - name: "Talks"
       tag: "talk"
 
-    - name: "Trainings"
-      tag: "training"  
+    - name: "Teaching"
+      tag: "course"
   
     - name: "Upcoming"
       tag: "upcoming"
@@ -62,3 +62,5 @@ advanced:
  # CSS class.
  css_class: ""
 ---
+
+Coming soon ...

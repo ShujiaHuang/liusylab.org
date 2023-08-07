@@ -7,7 +7,7 @@ widget: people
 headless: false
 
 # Order that this section appears on the page.
-weight: 20
+weight: 70
 
 title: Our Group
 subtitle:
@@ -22,8 +22,9 @@ content:
     - Master Students
     - Research Assistants
     - Grad Students
-    - Alumni
+    # - Alumni
     - External collaborator
+
 
 design:
   show_interests: false
