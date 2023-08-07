@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Methods and Applications in Epidemiological"
+title: "Methods and Applications in Epidemiology"
 event: 
 event_url: 
 location: 
@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 
 authors: []
-tags: [course,epidemiological,statistics]
+tags: [course,epidemiology]
 
 # Is this a featured talk? (true/false)
 featured: false

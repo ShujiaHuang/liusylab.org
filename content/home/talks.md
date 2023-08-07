@@ -45,6 +45,9 @@ content:
       tag: "machine learning"
       tag: "bioinformatics"
 
+    - name: "Epidemiology"
+      tag: "epidemiology"
+
     - name: "Talks"
       tag: "talk"
 
