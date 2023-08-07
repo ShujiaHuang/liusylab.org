@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Genomics and Bioinformatics Boost 
+name: Creatively integrating statistical human genetics and bioinformatics to elucidate  disease mechanisms and facilitate new therapeutics 
 
 # Username (this should match the folder name and the name on publications)
 authors:
