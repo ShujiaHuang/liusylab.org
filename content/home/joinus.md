@@ -10,7 +10,7 @@ widget: pages
 weight: 80
 
 title: Join us
-subtitle: '招生信息'
+subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...

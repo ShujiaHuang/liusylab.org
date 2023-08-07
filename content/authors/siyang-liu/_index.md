@@ -20,15 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Focused on human genomics and bioinformatics research
 
-experience:
-  - title = "副教授(博导)"
-  - company = "中山大学公共卫生学院（深圳）"
-  - company_url = "https://phs.sysu.edu.cn/zh-hans"
-  - location = "Shenzhen"
-  - date_start = "2021-01-01"
-  - date_end = ""
-  - description = """
-
 # interests:
 # - Systematic Epidemiological Research Based on Medical Big Data/Genetic basis of phenotypes, behaviors and diseases 
 # - Genetics and evolution
@@ -36,7 +27,6 @@ experience:
 
 
 # education:
-
 #   courses:
 #   - course: PhD in Bioinformatics
 #     institution: Bioinformatics Center, University of Copenhagen
@@ -156,10 +146,11 @@ Associate Professor, Unit of Medical Statistics and Systems Biology, School of P
 
 **Education/Training**
 
-- 2015/05-2017/12   PhD in Bioinformatics, Bioinformatics Center, University of Copenhagen, Supervisor： Profs. Anders Krogh & Anders Albrechtsen
-- 2012/09-2015/04   MSc in Bioinformatics, Bioinformatics Center, University of Copenhagen, Supervisor： Prof. Anders Krogh
+- 2015/05-2017/12   PhD in Bioinformatics, Bioinformatics Center, University of Copenhagen, Supervisor： Profs. [Anders Krogh](https://research.ku.dk/search/result/?pure=en%2Fpersons%2Fanders-krogh(109cd77e-27eb-47b9-997f-eab877a0f429).html
+) & [Anders Albrechtsen](http://www.popgen.dk/groupWiki/index.php/Anders_Albrechtsen)
+- 2012/09-2015/04   MSc in Bioinformatics, Bioinformatics Center, University of Copenhagen, Supervisor： Prof. [Anders Krogh](https://research.ku.dk/search/result/?pure=en%2Fpersons%2Fanders-krogh(109cd77e-27eb-47b9-997f-eab877a0f429).html
+)
 - 2007/09-2011/07   BSc in Ecology, Department of Life Science, Sun Yat-sen University
-
 
 
 **Teaching**
@@ -185,10 +176,10 @@ Associate Professor, Unit of Medical Statistics and Systems Biology, School of P
 
 **Publication**
 
-- h-index 18, details: [Google scholar Siyang Liu](https://scholar.google.com/citations?user=9JFX62IAAAAJ)
+- **h-index 18**, more details: [Google scholar](https://scholar.google.com/citations?user=9JFX62IAAAAJ)
 
 
-(# first authors; *corresponding authors)
+(# first authors; \*corresponding authors)
 
 1.  Cheng S#, Xu Z#, Bian S, Chen X, Shi Y, Li Y, Duan Y, Liu Y, Lin J, Jiang Y, Jing J, Li Z, Wang Y, Meng X, Liu Y, Fang M, Jin X, Xu X, Wang J, Wang C, Li H, Liu S*, Wang Y*. The STROMICS genome study: deep whole genome sequencing and analysis of 10K Chinese patients with ischemic stroke reveal complex genomic and phenotypic interplay. Cell Discov. 2023 Jun 17. (JCR Q1, IF 38.1)
 2.  Wu P#, Ding L#, Li X#, Liu S#, Cheng F#, He Q, Xiao M, Wu P, Hou H, Jiang M, Long P, Wang H, Liu L, Qu M, Shi X, Jiang Q, Mo T, Ding W, Fu Y, Han S, Huo X, Zeng Y, Zhou Y, Zhang Q, Ke J, Xu X, Ni W, Shao Z, Wang J, Liu P, Li Z, Jin Y, Zheng F, Wang F, Liu L, Li W, Liu K, Peng R, Xu X, Lin Y, Gao H, Shi L, Geng Z, Mu X, Yan Y, Wang K, Wu D, Hao X, Cheng S, Qiu G, Guo H, Li K, Chen G, Sun Z, Lin X, Jin X*, Wang F*, Sun C*, Wang C*. Trans-ethnic genome-wide association study of severe COVID-19. Commun Biology. 2021 Aug 31. (JCR Q2, IF 6.6)

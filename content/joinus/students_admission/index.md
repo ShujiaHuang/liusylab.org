@@ -1,20 +1,20 @@
 ---
-title: 博士生/硕士生
+title: PhD/Master Student
 
-summary: 招收博士生1人/年、硕士生2-3人/年，接收本科生2-3人/年进行科研培训，常年招收博士后以及专职科研（研究员、副研究员、助理研究员以及研究助理）
-abstract: 招收博士生1人/年、硕士生2-3人/年，接收本科生2-3人/年进行科研培训，常年招收博士后以及专职科研（研究员、副研究员、助理研究员以及研究助理）
+summary: ""
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2023-06-01"
 
-authors: []
+authors: [Siyang Liu's Lab]
 tags: []
 
 featured: false
 
 image:
-  caption: 'Lab'
+  caption: "Siyang Liu's Lab"
   focal_point: Right
 
 
@@ -26,7 +26,10 @@ image:
 projects: []
 ---
 
-招收博士生1人/年、硕士生2-3人/年，接收本科生2-3人/年进行科研培训，常年招收博士后以及专职科研（研究员、副研究员、助理研究员以及研究助理）。热忱欢迎对人类基因组与生物信息学领域感兴趣的医学、生物、数学、计算机及相关方向的同学们加入我们的研究团队！**来信请注明申请方向及职位**。
+Prospective PhD and master candidates are encouraged to initiate correspondence with Prof. Siyang Liu. As for potential Master‘s applicants, they are also invited to participate in the annual summer campus organized by the School of Public Health (Shenzhen). Students seeking admission to the PhD and Master’s programs are advised to remain vigilant regarding announcements disseminated by the School of Public Health (Shenzhen) at [Sun Yat-sen University](https://phs.sysu.edu.cn/zh-hans/graduates).
+
+
+招收博士生1人/年、硕士生2-3人/年，接收本科生2-3人/年 进行科研培训。热忱欢迎对人类基因组与生物信息学领域感兴趣的医学、生物、数学、计算机及相关方向的同学们加入我们的研究团队！**来信请注明申请方向及职位**。
 
 **基本条件**：应届硕士研究生和本科毕业生。
 

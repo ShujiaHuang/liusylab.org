@@ -1,20 +1,20 @@
 ---
-title: 博士后招聘
+title: Postdoc Hiring
 
-summary: 常年招募博士后，年龄在35岁以下，获得博士学位不超过3年，具备较高的学术水平和较强的科研能力的国内外优秀博士。
-abstract: 常年招募博士后
+summary: 
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2023-05-01"
 
-authors: []
+authors: [Siyang Liu's Lab]
 tags: []
 
 featured: false
 
 image:
-  caption: 'Lab'
+  caption: "Siyang Liu's Lab"
   focal_point: Right
 
 
@@ -26,9 +26,13 @@ image:
 projects: []
 ---
 
-**基本要求**
+We warmly invite both international and domestic applicants to apply for our postdoctoral positions. We particularly encourage candidates who possess a strong passion for human genomics, statistical genetics, and computational biology to become part of our team. We offer competitive remuneration in line with various talent acquisition initiatives in Shenzhen, Guangdong, and China. Furthermore, recipients will have access to relevant postdoctoral policies applicable within the city of Shenzhen. 
 
-年龄在35岁以下，获得博士学位不超过3年，具备较高的学术水平和较强的科研能力的国内外优秀博士。
+For inquiries, feel free to reach out to Prof. Siyang Liu at  liusy99@mail.sysu.edu.cn.
+
+
+
+招聘博士后，年龄在35岁以下，获得博士学位不超过3年，具备较高的学术水平和较强的科研能力的国内外优秀博士。
 
 **团队研究方向**
 
