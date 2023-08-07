@@ -66,7 +66,6 @@ bio: Focused on human genomics and bioinformatics research
 #       link: https://xxgk.sysu.edu.cn/article/219
 
 
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -136,7 +135,6 @@ Associate Professor, Unit of Medical Statistics and Systems Biology, School of P
 - Genome Denmark Consortium (2012-2017)
 
 
-
 **Research Career**
 
 - 2021 - present:  Associate professor, Sun Yat-sen University, School of Public Health (Shenzhen)
@@ -174,9 +172,9 @@ Associate Professor, Unit of Medical Statistics and Systems Biology, School of P
 
 
 
-**Publication**
+**Publications**
 
-- **h-index 18**, more details: [Google scholar](https://scholar.google.com/citations?user=9JFX62IAAAAJ)
+- All publications at [Google scholar](https://scholar.google.com/citations?user=9JFX62IAAAAJ)
 
 
 (# first authors; \*corresponding authors)
@@ -193,7 +191,7 @@ Associate Professor, Unit of Medical Statistics and Systems Biology, School of P
 10. Liu S#, Lin J#, Wu H#, Wang C, Huang S, Luo Y, Sun J, Zhou J, Yan S, He J*, Wang J*, He Z*. Bisulfite sequencing reveals that Aspergillus flavus holds a hollow in DNA methylation. PLoS One. 2012;7(1):e30349.  (JCR Q2, IF 3.8)
 
 
-**Patent** 
+**Patents** 
 
 1.  Base mutation detection method and apparatus based on sequencing data, and storage medium, 2023, PCT/CN2019/086972 (rank 1/3)
 2.  A Mutation Detection Method and Device Based on Genome Assembly, 2015, ZL201510043793.2 (rank 2/4)
@@ -205,7 +203,6 @@ Associate Professor, Unit of Medical Statistics and Systems Biology, School of P
 3. Siyang Liu, Perspectives on large scale population genetics, Shenzhen International Genomics and Biomedical Peak Forum", Shenzhen, 2018.Oct.24th 
 4. Siyang Liu, Utilizing Cell-free DNA in Population and Medical Genetics, The 10th Academic Festival of Zhongshan Medical College, Guangzhou, 2018.Dec.1st
 5. Siyang Liu, Analyzing low-pass whole genome sequencing of over 140, 000 individuals from throughout China, 2017 The Fifteenth Asia Pacific Bioinformatics Conference, City University of Hong Kong Shenzhen Research Institute, Shenzhen, 2017 Jan 17th
-
 
 
 

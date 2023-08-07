@@ -4,7 +4,7 @@ name: Creatively integrating statistical human genetics and bioinformatics to el
 
 # Username (this should match the folder name and the name on publications)
 authors:
-  - Labname
+  - Siyang Liu's Lab
 
 # Is this the primary user of the site?
 superuser: false
