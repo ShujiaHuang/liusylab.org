@@ -1,13 +1,11 @@
 ---
 title: "Benchmarking the HLA typing performance of Polysolver and Optitype in 50 Danish parental trios"
 authors:
-- Siyang Liu
-- Shujia Huang
-- Junhua Rao
-- Weijian Ye
-- Genome Denmark Consortium
-- Anders Krogh
-- Jun Wang
+- Maria Luisa Matey-Hernandez
+- Danish Pan Genome Consortium
+- Søren Brunak
+- Jose M. G. Izarzugaza
+
 
 author_notes:
 - "Equal contribution"
