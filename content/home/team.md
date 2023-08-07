@@ -9,7 +9,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 70
 
-title: Our Group
+title: Group Members
 subtitle:
 
 content:
@@ -22,7 +22,7 @@ content:
     - Master Students
     - Research Assistants
     - Grad Students
-    # - Alumni
+    - Former Students
     - External collaborator
 
 
