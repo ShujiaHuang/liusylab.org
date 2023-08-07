@@ -1,5 +1,5 @@
 ---
-title: "Patent (欧洲已授权): BASE MUTATION DETECTION METHOD AND APPARATUS BASED ON SEQUENCING DATA, AND STORAGE MEDIUM"
+title: "Patent: BASE MUTATION DETECTION METHOD AND APPARATUS BASED ON SEQUENCING DATA, AND STORAGE MEDIUM"
 
 authors:
 - Siyang Liu
@@ -17,7 +17,7 @@ doi: ""
 publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*欧洲专利*"
+publication: "*国际专利*"
 publication_short: ""
 
 abstract: "The first inventor (rank 1/3)"
@@ -56,6 +56,8 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
+
+欧洲已授权
 
 ![image-20230726164103365](https://static.fungenomics.com/images/2023/07/image-20230726164103365.png)
 
