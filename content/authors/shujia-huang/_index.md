@@ -80,7 +80,7 @@ user_groups:
  - External collaborator
 
 # 如果设置为 true 则不会在发布的网站中显示
-draft: false
+draft: true
 ---
 
 ## 简介
