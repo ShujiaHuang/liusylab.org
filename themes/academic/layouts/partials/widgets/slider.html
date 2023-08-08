@@ -20,15 +20,15 @@
     background-image:
     {{ if $item.overlay_filter }}linear-gradient(rgba(0, 0, 0, {{ $item.overlay_filter }}), rgba(0, 0, 0, {{ $item.overlay_filter }})), {{ end }}
     url('{{ printf "img/%s" $item.overlay_img | absURL }}');
-    {{ end }}
-    ;">
+    {{ end }};">
+
     <div class="container" style="text-align: {{$item.align | default "left"}};">
         <h1 class="hero-title">
           {{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}
         </h1>
 
         {{ with $item.content }}
-        <p class="hero-lead" style="{{if eq $item.align "center"}}margin: 0 auto 0 auto;{{else if eq $item.align "right"}}margin-left: auto; margin-right: 0{{end}}">
+        <p class="hero-lead" style="{{if eq $item.align "center"}}margin: 0 auto 0 auto;{{else if eq $item.align "right"}} margin-left: auto; margin-right: 0{{end}}">
           {{ . | markdownify | emojify }}
         </p>
         {{ end }}
