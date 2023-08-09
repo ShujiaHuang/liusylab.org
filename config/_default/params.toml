@@ -92,18 +92,20 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-# address = "IN"
+#address="Gongchang Rong 66, Guangming District, Shenzhen, China, 518107"
+
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-# coordinates = ""
+#coordinates=""
 
 # Directions for visitors to locate you.
-# directions = ""
+#directions = "West Building 1 Medical Garden"
+directions = "West Building 1 Medical Garden, Gongchang Rong 66, Guangming District, Shenzhen, China, 518107"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-# office_hours = ""
+office_hours = ["Regular workday. Please make an appointment via email."]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
