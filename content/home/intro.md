@@ -10,8 +10,7 @@ interval: false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height: calc(100vh - 70px)
-
+# height: calc(100vh - 70px)
 
 item:
 - title: Welcome to Siyang Liu’s Lab

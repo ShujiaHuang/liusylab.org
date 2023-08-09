@@ -64,5 +64,6 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 [taxonomies]
   tag = "tags"
   category = "categories"
-  publication_type = "publication_types"
+  #publication_type = "publication_types"
+  publication_type = "/publication-type/:slug/"
   author = "authors"
