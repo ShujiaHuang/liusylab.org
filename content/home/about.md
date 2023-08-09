@@ -3,9 +3,10 @@
 widget: "about"
 headless: true   # This file represents a page section.
 active: true     # Activate this widget? true/false
-weight: 1        # Order that this section will appear in.
+weight: 2        # Order that this section will appear in.
 
-title: "Welcome to Siyang Liu's Lab!"
+# title: "Lab Introduction"
+title: "Welcome to Siyang Liu’s Lab"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
