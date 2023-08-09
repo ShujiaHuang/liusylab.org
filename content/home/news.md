@@ -2,6 +2,7 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 # widget: pages  # 注释掉了，页面将不显示 news 文件夹的内容 
+widget: blank
 
 # This file represents a page section.
 headless: true

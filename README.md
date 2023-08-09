@@ -56,10 +56,11 @@ hugo server --theme=hyde --minify --buildDrafts -w
 ```
 
 ## 工具
-https://github.com/wowchemy/wowchemy-hugo-themes
 
-[**Hugo Academic CLI**](https://github.com/wowchemy/hugo-academic-cli/): Automatically import academic publications from BibTeX
-[**Awesome Hugo**](https://github.com/wowchemy/awesome-hugo): Scripts to help migrate content to new versions of Hugo
+<https://github.com/wowchemy/wowchemy-hugo-themes>
+
+- [**Hugo Academic CLI**](https://github.com/wowchemy/hugo-academic-cli/): Automatically import academic publications from BibTeX
+- [**Awesome Hugo**](https://github.com/wowchemy/awesome-hugo): Scripts to help migrate content to new versions of Hugo
 
 
 ## 参考
