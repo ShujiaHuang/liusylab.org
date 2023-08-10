@@ -27,11 +27,11 @@ authors:
 - Yongjun Wang
 
 author_notes:
-- "Co-first author"  #"Equal contribution"
+- "Co-first author"  # "Equal contribution"
 - "Co-first author"
 - "Co-second author"
 - "Co-second author"
-- ""
+- "Co-second author"
 - ""
 - ""
 - ""

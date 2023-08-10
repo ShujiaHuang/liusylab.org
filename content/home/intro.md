@@ -41,12 +41,12 @@ item:
   # cta_icon: graduation-cap
 
 
-- title: The Isthmus of Panama Changed the World...
-  align: center 
-  content: Three million years ago an experiment began
-  overlay_color: '#1f4e74FF'
-  overlay_filter: 0.0
-  overlay_img: ''
+# - title: The Isthmus of Panama Changed the World...
+#   align: center 
+#   content: Three million years ago an experiment began
+#   overlay_color: '#1f4e74FF'
+#   overlay_filter: 0.0
+#   overlay_img: ''
 
 # - title: '...on Land...'
 #   align: right 

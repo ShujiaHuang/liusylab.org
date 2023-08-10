@@ -77,10 +77,10 @@ email: hshujia@qq.com
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - External collaborator
+# - External collaborator
 
 # 如果设置为 true 则不会在发布的网站中显示
-draft: true
+draft: false
 ---
 
 ## 简介
