@@ -11,7 +11,7 @@ day_night: true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font: "mr robot"  # can be: minimal, classic, rose, mr robot, native
+font: "minimal"  # can be: minimal, classic, rose, mr robot, native
 font_size: S   # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 
 # Basic Info
@@ -57,7 +57,6 @@ contact_links:
 #    icon_pack: fas
 #    name: Discuss on Forum
 #    link: 'https://discourse.gohugo.io'
-
 
 # Site header
 main_menu:

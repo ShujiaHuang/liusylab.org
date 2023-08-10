@@ -62,6 +62,8 @@ hugo server --theme=hyde --minify --buildDrafts -w
 - [**Hugo Academic CLI**](https://github.com/wowchemy/hugo-academic-cli/): Automatically import academic publications from BibTeX
 - [**Awesome Hugo**](https://github.com/wowchemy/awesome-hugo): Scripts to help migrate content to new versions of Hugo
 
+
+
 ## Awesome hugo
 
 <https://github.com/theNewDynamic/awesome-hugo>
@@ -78,10 +80,10 @@ hugo server --theme=hyde --minify --buildDrafts -w
 
 
 
+## Hugo ICON
 
-
-
-
+- <https://github.com/hugo-mods/icons>
+- <https://fontawesome.com/>
 
 
 ## 测试配置 meme 主题的例子

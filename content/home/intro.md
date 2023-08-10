@@ -19,8 +19,8 @@ item:
 - title: Welcome to Siyang Liu Lab
   align: center  # Choose `center`, `left`, or `right`.
   content: >-
-      Creatively integrating statistical human genetics and bioinformatics to
-      elucidate disease mechanisms and facilitate new therapeutics
+      *Creatively integrating statistical human genetics and bioinformatics to
+      elucidate disease mechanisms and facilitate new therapeutics*
 
 
   overlay_color: '#1f4e74FF'           # An HTML color value.
@@ -30,10 +30,10 @@ item:
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`
-  cta_icon: info
+  cta_icon: microscope # info
   cta_icon_pack: fas
   cta_label: Our research
-  cta_url: research/
+  cta_url: research
 
   # cta_label: Get Academic
   # cta_url: '#about'
@@ -62,17 +62,17 @@ item:
 #   overlay_filter: 0.7
 #   overlay_img: site_banner/sea.jpg
 
-- title: ''
-  align: center 
-  content: Learn more about this website & the grant that supports the work---*Divergence
-    of Marine Symbiosis After the Rise of the Isthmus of Panama*.
-  cta_icon: info
-  cta_icon_pack: fas
-  cta_label: More Information
-  cta_url: about/
-  overlay_color: '#1f4e74FF'
-  overlay_filter: 0.0
-  overlay_img: ''
+# - title: ''
+#   align: center 
+#   content: Learn more about this website & the grant that supports the work---*Divergence
+#     of Marine Symbiosis After the Rise of the Isthmus of Panama*.
+#   cta_icon: info
+#   cta_icon_pack: fas
+#   cta_label: More Information
+#   cta_url: about/
+#   overlay_color: '#1f4e74FF'
+#   overlay_filter: 0.0
+#   overlay_img: ''
 
 
 design:
