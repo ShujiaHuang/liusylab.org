@@ -3,7 +3,7 @@
 
 widget: slider 
 headless: true    # This file represents a page section.
-active: true     # Activate this widget? true/false
+active: true      # Activate this widget? true/false
 weight: 1         # Order that this section will appear.
 
 
@@ -33,7 +33,8 @@ item:
   cta_icon: microscope # info
   cta_icon_pack: fas
   cta_label: Our research
-  cta_url: research
+  cta_url: "#research"
+  # cta_url: research
 
   # cta_label: Get Academic
   # cta_url: '#about'

@@ -41,6 +41,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
+  columns: '2'
 ---
 
 <!-- 实验室动态内容暂时放在这里，等之后学会新的表达形式之后再改  -->
