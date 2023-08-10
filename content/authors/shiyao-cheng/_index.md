@@ -1,6 +1,6 @@
 ---
 # Display name: 中文和拼音
-name: Shiyao Cheng
+title: Shiyao Cheng
 
 # Username (this should match the folder name and the name on publications)
 authors:

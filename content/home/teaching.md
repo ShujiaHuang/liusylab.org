@@ -7,15 +7,15 @@ headless: true       # This file represents a page section.
 active: true         # Activate this widget? true/false
 weight: 50           # Order that this section will appear.
 
-title: "Teaching/Talks"
+title: "Teaching"
 subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, or publication.
-  page_type: talk
+  page_type: teaching
   
   # Choose how much pages you would like to display (0 = all pages)
-  count: 10
+  count: 5
   
   # Choose how many pages you would like to offset by
   offset: 0

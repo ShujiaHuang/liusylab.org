@@ -11,38 +11,6 @@ weight: 130
 title: Contact
 subtitle: ""
 
-# Contact (add or remove contact options as necessary)
-# email: liusy99@mail.sysu.edu.cn
-
-# phone: 
-# appointment_url: 'https://calendly.com'
-address:
-  - street: Gongchang Rong 66
-  - city: Shenzhen
-  - region: Guangming District
-  - postcode: '518107'
-  - country: China
-  - country_code: CN
-  - directions: West Building 1 Medical Garden
-
-# office_hours:
-# - 'Monday 10:00 to 13:00'
-# - 'Wednesday 09:00 to 10:00'
-
-# contact_links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: DM Me
-#   link: 'https://twitter.com/Twitter'
-# - icon: skype
-#   icon_pack: fab
-#   name: Skype Me
-#   link: 'skype:echo123?call'
-# - icon: video
-#   icon_pack: fas
-#   name: Zoom Me
-#   link: 'https://zoom.com'
-
 
 content:
   # Automatically link email and phone or display as text?

@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Creatively integrating statistical human genetics and bioinformatics to elucidate  disease mechanisms and facilitate new therapeutics 
+title: Creatively integrating statistical human genetics and bioinformatics to elucidate  disease mechanisms and facilitate new therapeutics 
 
 # Username (this should match the folder name and the name on publications)
 authors:
-  - Siyang Liu's Lab
+  - Siyang Liu Lab
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-    - name: School of Public Health (Shenzhen), Sun Yat-sen University 
+    - name: School of Public Health (Shenzhen), Sun Yat-sen University
       url: https://phs.sysu.edu.cn/zh-hans/teacher/390
 
 # Short bio (displayed in user profile at end of posts)

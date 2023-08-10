@@ -1,6 +1,6 @@
 ---
 # Display name: 中文和拼音
-name: Zehua Huang
+title: Zehua Huang
 
 # Username (this should match the folder name and the name on publications)
 authors:

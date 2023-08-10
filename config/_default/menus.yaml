@@ -3,66 +3,37 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[main]]
-  name = "About"
-  url = "#about"
-  weight = 1
+main:
 
-[[main]]
-  name = "News"
-  url = "#news"
-  weight = 10
+  - name: Home
+    url: "/"  # "#about"
+    weight: 1
 
-#[[main]]
-# name = "Projects"
-# url = "#projects"
-# weight = 30
+  - name: Research
+    url: "research"
+    weight: 10
 
-[[main]]
- name = "Publications"
- url = "#publications"
- weight = 40
+  - name: News
+    url: "#news"
+    weight: 20
 
-[[main]]
-  name = "Teaching/Talks"
-  url = "#talks"
-  weight = 50
+  - name: Publications
+    url: "#publications"
+    weight: 40
 
-#[[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 60
+  - name: Teaching
+    url: "#teaching"
+    weight: 50
 
-#[[main]]
-#  weight = 70
-#  name = "Notes"
-#  url = "/notes"
+  - name: Meet the Team
+    url: people
+    weight: 70
 
-#[[main]]
-#  parent = "Notes"
-#  name = "Tech"
-#  url = "/notes/technology/"
-#  weight = 71
-
-[[main]]
-  name = "Meet the Team"
-  url = "#team"
-  weight = 70
+  - name: Join us
+    url: "#joinus"
+    weight: 80
 
 
-[[main]]
-  name = "Join us"
-  url = "#joinus"
-  weight = 80
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 90
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+  - name: Contact
+    url: contact
+    weight: 130

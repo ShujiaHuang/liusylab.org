@@ -1,6 +1,6 @@
 ---
 # Display name: 中文和拼音
-name: Shengzhe Bian
+title: Shengzhe Bian
 
 # Username (this should match the folder name and the name on publications)
 authors:

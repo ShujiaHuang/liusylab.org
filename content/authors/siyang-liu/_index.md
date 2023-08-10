@@ -1,8 +1,8 @@
 ---
 # Display name
-name: Siyang Liu
+title: Siyang Liu
 
-# Username (this should match the folder name)
+# Username (this should match the folder name and the name on publications)
 authors:
 - Siyang Liu
 

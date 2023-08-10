@@ -1,6 +1,6 @@
 ---
 # Display name: 中文和拼音
-name: Piao Wang
+title: Piao Wang
 
 # Username (this should match the folder name and the name on publications)
 authors:

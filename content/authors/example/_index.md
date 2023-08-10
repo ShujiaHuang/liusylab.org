@@ -1,6 +1,6 @@
 ---
 # Display name: 中文和拼音
-name: 张三（Zhang San）
+title: 张三（Zhang San）
 
 # Username (this should match the folder name and the name on publications)
 authors:
