@@ -62,6 +62,11 @@ hugo server --theme=hyde --minify --buildDrafts -w
 - [**Hugo Academic CLI**](https://github.com/wowchemy/hugo-academic-cli/): Automatically import academic publications from BibTeX
 - [**Awesome Hugo**](https://github.com/wowchemy/awesome-hugo): Scripts to help migrate content to new versions of Hugo
 
+## Awesome hugo
+
+<https://github.com/theNewDynamic/awesome-hugo>
+- [**Build Websites with Hugo. Fast Web Development with Markdown**](https://pragprog.com/titles/bhhugo/build-websites-with-hugo/)
+- [**Hugo in Action - Static sites and dynamic Jamstack apps**](https://manning.com/books/hugo-in-action)
 
 ## 参考
 - [Example](https://wowchemy.com/creators/)
