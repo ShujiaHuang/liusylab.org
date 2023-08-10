@@ -6,15 +6,15 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-05-01"
+date: "2023-07-01"
 
-authors: [Siyang Liu's Lab]
+authors: [Siyang Liu Lab]
 tags: []
 
 featured: false
 
 image:
-  caption: "Siyang Liu's Lab"
+  caption: "Siyang Liu Lab"
   focal_point: Right
 
 

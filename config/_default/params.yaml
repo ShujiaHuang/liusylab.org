@@ -11,8 +11,8 @@ day_night: true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font: minimal  # can be: minimal, classic, rose, mr robot, native
-font_size: M   # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
+font: "mr robot"  # can be: minimal, classic, rose, mr robot, native
+font_size: S   # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 
 # Basic Info
 
@@ -33,7 +33,6 @@ description:
 #   To enable, place an image in `assets/media` and reference its filename below. To disable, set the value to "".
 logo: ""
 
-
 # Contact (edit or remove options as required)
 email: liusy99@mail.sysu.edu.cn
 # phone: 888 888 88 88
@@ -49,8 +48,8 @@ coordinates:
   longitude: '113.94693'
 directions: West Building 1 Medical Garden
 office_hours:
- - 'Monday 10:00 to 13:00'
- - 'Wednesday 09:00 to 10:00'
+- 'Monday 10:00 to 13:00'
+- 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
 
 contact_links:
@@ -182,8 +181,8 @@ marketing:
   google_analytics: ''
   google_tag_manager: ''
   google_site_verification: ''
-  baidu_site_verification: ''
   baidu_tongji: ''
+  baidu_site_verification: ''
 
 cms:
   branch: main
@@ -193,11 +192,13 @@ icon:
   pack:
     ai: true
 
-
 # copyright_license:
 #   enable: false
 #   allow_derivatives: false
 #   share_alike: true
 #   allow_commercial: false
 #   notice: 'This work is licensed under {license}'
+
+
+
 
