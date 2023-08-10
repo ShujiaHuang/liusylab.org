@@ -26,10 +26,30 @@ authors:
 - Siyang Liu
 - Yongjun Wang
 
-
 author_notes:
-  - "Equal contribution"
-  - "Equal contribution"
+- "Co-first author"  #"Equal contribution"
+- "Co-first author"
+- "Co-second author"
+- "Co-second author"
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- 
+- "Correspondence author"
+- "Correspondence author" 
 
 date: "2023-07-21"
 doi: "10.1038/s41421-023-00582-8"
@@ -91,9 +111,8 @@ projects:
 slides:
 ---
 
-
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the _Cite_ button above to enable you to import publication metadata into your reference management software.
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code and math](https://www.nature.com/articles/s41421-023-00582-8#Sec23).

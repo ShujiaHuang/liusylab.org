@@ -41,7 +41,44 @@ authors:
 - Xun Xu
 
 author_notes:
-- "Equal contribution"
+- "Co-first author"
+- "Co-first author"
+- "Co-first author"
+- "Co-first author"
+- "Co-first author"
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- "Correspondence author"
+- "Correspondence author"
+- "Correspondence author"
+- "Correspondence author"
+- "Correspondence author"
 
 date: "2018-10-04"
 doi: "10.1016/j.cell.2018.08.016"

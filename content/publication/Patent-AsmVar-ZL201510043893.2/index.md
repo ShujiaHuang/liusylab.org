@@ -7,6 +7,9 @@ authors:
 - Weijian Ye
 - Junhua Rao
 
+author_notes:
+- "First inventor"
+- "second inventor"
 
 date: "2018-10-26"
 doi: ""

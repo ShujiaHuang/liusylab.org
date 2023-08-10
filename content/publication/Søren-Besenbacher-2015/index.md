@@ -1,5 +1,6 @@
 ---
 title: "Novel variation and de novo mutation rates in population-wide de novo assembled Danish trios"
+
 authors:
 - Søren Besenbacher
 - Siyang Liu
@@ -50,7 +51,53 @@ authors:
 - Simon Rasmussen
 
 author_notes:
-- "Equal contribution"
+- "Co-first author"
+- "Co-first author"
+- "Co-first author"
+-
+-
+-
+- 
+-
+-
+-
+-
+-
+- 
+-
+-
+-
+-
+-
+- 
+-
+-
+-
+-
+-
+- 
+-
+-
+-
+-
+-
+- 
+-
+-
+-
+-
+-
+- 
+-
+-
+-
+-
+-
+- 
+- "Correspondence author"
+- "Correspondence author"
+- "Correspondence author"
+- "Correspondence author"
 
 date: "2015-01-19"
 doi: "10.1038/ncomms6969"

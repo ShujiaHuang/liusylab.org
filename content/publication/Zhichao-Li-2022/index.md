@@ -11,7 +11,13 @@ authors:
 - Xin Jin
 
 author_notes:
-- "Equal contribution"
+- "Co-first author"
+- "Co-first author"
+-
+-
+-
+- "Correspondence author"
+- "Correspondence author" 
 
 date: "2022-07-25"
 doi: "10.1093/nar/gkac638"
@@ -42,7 +48,7 @@ featured: false
 #   url: ""
 url_pdf: https://academic.oup.com/nar/article/51/D1/D890/6649379
 url_code: https://github.com/ShujiaHuang/cmdbtools
-url_dataset: http://cmdb.bgi.com
+url_dataset: http://cmdb.bgi.com/cmdb
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -72,3 +78,8 @@ projects:
 slides:
 
 ---
+
+{{% callout note %}}
+Click the _Cite_ button above to enable you to import publication metadata into your reference management software.
+{{% /callout %}}
+

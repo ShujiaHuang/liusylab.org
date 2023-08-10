@@ -30,7 +30,33 @@ authors:
 - Lei Liu
 
 author_notes:
-- "Equal contribution"
+- "Co-first author"
+- "Co-first author"
+- "Co-first author"
+- "Co-first author"
+- "Co-first author"
+- "Co-first author"
+- 
+-
+-
+- 
+-
+-
+- 
+-
+-
+- 
+-
+-
+- 
+-
+-
+- 
+-
+- "Correspondence author"
+- "Correspondence author" 
+- "Correspondence author"
+- "Correspondence author" 
 
 date: "2020-11-10"
 doi: "10.1038/s41421-020-00231-4"

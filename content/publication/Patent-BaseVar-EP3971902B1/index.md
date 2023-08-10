@@ -6,6 +6,9 @@ authors:
 - Shujia Huang
 - Xin Jin
 
+author_notes:
+- "First inventor"
+- "second inventor"
 
 date: "2023-01-18"
 doi: ""
@@ -17,7 +20,7 @@ doi: ""
 publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*国际专利*"
+publication: "*European Patent*"
 publication_short: ""
 
 abstract: "The first inventor (rank 1/3)"

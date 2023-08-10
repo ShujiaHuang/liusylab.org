@@ -1,7 +1,7 @@
 ---
 title: 'An example journal article'
 authors:
-  - admin
+  - Siyang Liu
   - Robert Ford
 author_notes:
   - 'Equal contribution'
@@ -68,7 +68,7 @@ draft: true
 ---
 
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the _Cite_ button above to enable you to import publication metadata into your reference management software.
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).

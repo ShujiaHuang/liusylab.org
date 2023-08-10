@@ -62,7 +62,65 @@ authors:
 - Mikkel Heide Schierup
 
 author_notes:
-- "Equal contribution"
+- "Co-first author"
+- "Co-first author"
+- "Co-first author"
+- "Co-first author"
+- "Co-first author"
+- "Co-first author"
+- "Co-first author"
+- "Co-first author"
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- 
+- "Correspondence author"
+- "Correspondence author"
+- "Correspondence author"
 
 date: "2017-08-01"
 doi: "10.1038/nature23264"

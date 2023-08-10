@@ -10,7 +10,13 @@ authors:
 - Jun Wang
 
 author_notes:
-- "Equal contribution"
+- "Co-first author"
+- "Co-first author"
+- "Co-first author"
+- "Co-first author"
+-
+- "Correspondence author"
+- "Correspondence author"
 
 date: "2015-12-01"
 doi: "10.1038/s42003-021-02549-5"

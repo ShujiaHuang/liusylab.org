@@ -41,7 +41,43 @@ authors:
 - Walid Abbas Zaher
 
 author_notes:
-- "Equal contribution"
+- "Co-first author"
+- "Co-first author"
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- "Correspondence author"
+- "Correspondence author"
 
 date: "2021-07-07"
 doi: "10.1038/s41598-021-92851-3"
