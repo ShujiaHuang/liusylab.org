@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 100
 
 title: Contact
 subtitle:
@@ -29,10 +29,7 @@ design:
   columns: '1'
 ---
 
-If you are interested in joining our team, please send us an email at liusy99 at mail dot sysu dot edu dot cn.
-
+If you are interested in joining our team, please send us an email at liusy99 at mail dot sysu dot edu dot cn. 
 To help us better find your application, please start the title of your
  email with "[Liusylab Application]".
- 
-We always welcome application for postdocs, graduate students, research
- assistants, student interns, etc.
+We always welcome application for postdocs, graduate students, research assistants, student interns, etc.

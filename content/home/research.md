@@ -1,13 +1,12 @@
 ---
 widget: blank
-headless: true  # This file represents a page section.
-active: true    # Activate this widget? true/false
+headless: false  # This file represents a page section.
+active: true     # Activate this widget? true/false
 
 # Order that this section appears on the page.
 weight: 2
 
-title: "Describe our research questions and research style"
-hero_media: background.jpg   # Image path relative to your `assets/media/` folder.
+title: "Our research questions and area"
 
 design:
   # Choose a view for the listings:
@@ -15,7 +14,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  # view: 2
   columns: '1'
 ---
 
