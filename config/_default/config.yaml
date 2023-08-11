@@ -89,3 +89,13 @@ related:
       weight: 100
     - name: categories
       weight: 70
+
+# 因 hugo 版本升级导致报错：
+# render of "page" failed: execute of template failed: template: widget_page/single.html:5:3
+# https://github.com/wowchemy/wowchemy-hugo-themes/discussions/2559 这个 issue 由作者提出如下的解决方案。
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
+

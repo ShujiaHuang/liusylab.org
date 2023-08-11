@@ -2,6 +2,8 @@ public/
 resources/
 learn_from/
 assets/jsconfig.json
+.hugo_build.lock
+
 *.swp
 
 
