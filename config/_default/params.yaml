@@ -37,7 +37,7 @@ logo: ""
 email: liusy99@mail.sysu.edu.cn
 # phone: 888 888 88 88
 address:
-  street: Gongchang Road 66, Sun Yat-sen University(Shenzhen Campus)
+  street: Gongchang Road 66, Sun Yat-sen University (Shenzhen Campus)
   region: Guangming District
   city: Shenzhen
   postcode: '518107'
@@ -57,7 +57,8 @@ contact_links:
 #    name: Discuss on Forum
 #    link: 'https://discourse.gohugo.io'
 
-address_format: pt-br # en-us
+# Address formats: "/data/address_formats.toml"
+address_format: en-ca  # en-us
 
 # Site header
 main_menu:
