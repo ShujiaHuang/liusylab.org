@@ -51,7 +51,7 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
-  post: '/:year/:month/:day/:slug/'
+  #post: '/:year/:month/:day/:slug/'
 disableAliases: true
 
 outputs:
