@@ -37,26 +37,27 @@ logo: ""
 email: liusy99@mail.sysu.edu.cn
 # phone: 888 888 88 88
 address:
-  street: Sun Yat-sen University(Shenzhen Campus), Gongchang Road 66
-  city: Shenzhen
+  street: Gongchang Road 66, Sun Yat-sen University(Shenzhen Campus)
   region: Guangming District
+  city: Shenzhen
   postcode: '518107'
   country: China
   country_code: CN
 coordinates:
   latitude: '22.80275'
   longitude: '113.94693'
-directions: West Building 1 Medical Garden
+directions: West Building 1 Medical Garden 4th floor
 office_hours:
 - 'Monday 10:00 to 13:00'
 - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
 #    name: Discuss on Forum
 #    link: 'https://discourse.gohugo.io'
+
+address_format: pt-br # en-us
 
 # Site header
 main_menu:
@@ -71,7 +72,6 @@ main_menu:
 # Localization
 date_format: 'Jan 2, 2006'
 time_format: '15:04'
-address_format: en-us
 
 # Site features
 highlight: false
