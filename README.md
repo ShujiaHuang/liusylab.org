@@ -120,4 +120,6 @@ $ hugo new "about/_index.md"
 
 
 
+## 封面风格参考
 
+- <http://www.circos.ca/images/mastheads/>

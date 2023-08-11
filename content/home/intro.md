@@ -23,7 +23,7 @@ item:
       elucidate disease mechanisms and facilitate new therapeutics*
 
   overlay_color: '#1f4e74FF'   # An HTML color value.
-  overlay_img: background.jpg  # Image path relative to your `assets/media/` folder.
+  overlay_img: background.jpg  # circos-connectome.png # Image path relative to your `assets/media/` folder.
   overlay_filter: 1            # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
