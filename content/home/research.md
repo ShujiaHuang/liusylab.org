@@ -4,7 +4,7 @@ headless: true # This file represents a page section.
 active: true   # Activate this widget? true/false
 weight: 2      # Order that this section appears on the page.
 
-title: "Our research questions and area"
+title: "We conduct research in three major areas"
 
 design:
   # Choose a view for the listings:
