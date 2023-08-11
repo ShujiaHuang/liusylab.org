@@ -25,7 +25,7 @@ site_type: Organization
 local_business_type: ''
 
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name: "Siyang Liu's Lab"
+org_name: "Siyang Liu Lab"
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description:
 
@@ -99,7 +99,7 @@ link_authors: true
 
 
 # Load JS plugins
-#   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`. 未尝试，不确定路径对不对
+#   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`. 未尝试，不确定对不对
 plugins_js: []
 plugins_css: []
 
