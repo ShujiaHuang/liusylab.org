@@ -44,8 +44,8 @@ address:
   country: China
   country_code: CN
 coordinates:
-  latitude: '22.80275'
-  longitude: '113.94693'
+  latitude: 22.8000
+  longitude: 113.9446
 directions: West Building 1 Medical Garden 4th floor
 office_hours:
 - 'Monday 10:00 to 13:00'
