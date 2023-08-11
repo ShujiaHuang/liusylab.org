@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shujia Huang（黄树嘉）
+title: Shujia Huang
 
 # Username (this should match the folder name and the name on publications)
 authors:
