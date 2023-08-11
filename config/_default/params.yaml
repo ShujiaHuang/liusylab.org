@@ -40,7 +40,7 @@ address:
   street: Gongchang Road 66, Sun Yat-sen University (Shenzhen Campus)
   region: Guangming District
   city: Shenzhen
-  postcode: '518107'
+  postcode: 518107
   country: China
   country_code: CN
 coordinates:
@@ -58,7 +58,7 @@ contact_links:
 #    link: 'https://discourse.gohugo.io'
 
 # Address formats: "/data/address_formats.toml"
-address_format: en-ca  # en-us
+address_format: en-cn  # en-us
 
 # Site header
 main_menu:
