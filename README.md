@@ -71,6 +71,7 @@ hugo server --theme=hyde --minify --buildDrafts -w
 - [**Hugo in Action - Static sites and dynamic Jamstack apps**](https://manning.com/books/hugo-in-action)
 
 ## 参考
+- [wowchemy academic tutorial](https://wowchemy.com/docs/hugo-tutorials/)
 - [Example](https://wowchemy.com/creators/)
 - [CAI4CAI 实验室例子](https://cai4cai.ml/)
 - [hugo搭建个人博客1-基础建站](https://shuzang.github.io/2019/hugo-blog-build-personal-blog/)
