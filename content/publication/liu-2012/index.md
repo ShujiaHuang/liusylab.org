@@ -15,7 +15,18 @@ authors:
 - Zhumei He
 
 author_notes:
-- "Equal contribution"
+- "First author"
+- "Co-first author"
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- "Correspondence author"
 
 date: "2012-01-20"
 doi: "10.1371/journal.pone.0030349"
