@@ -1,8 +1,9 @@
 public/
 resources/
 learn_from/
-
+assets/jsconfig.json
 *.swp
+
 
 .idea/
 .vscode
