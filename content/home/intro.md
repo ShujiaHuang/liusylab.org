@@ -22,10 +22,9 @@ item:
       *Creatively integrating statistical human genetics and bioinformatics to
       elucidate disease mechanisms and facilitate new therapeutics*
 
-
-  overlay_color: '#1f4e74FF'           # An HTML color value.
-  overlay_img: background.jpg   # Image path relative to your `assets/media/` folder.
-  overlay_filter: 1                  # Darken the image. Value in range 0-1.
+  overlay_color: '#1f4e74FF'   # An HTML color value.
+  overlay_img: background.jpg  # Image path relative to your `assets/media/` folder.
+  overlay_filter: 1            # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -33,8 +32,7 @@ item:
   cta_icon: microscope # info
   cta_icon_pack: fas
   cta_label: Our research
-  cta_url: "#research"
-  # cta_url: research
+  cta_url: "research"
 
   # cta_label: Get Academic
   # cta_url: '#about'

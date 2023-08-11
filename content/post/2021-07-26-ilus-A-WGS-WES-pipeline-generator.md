@@ -10,7 +10,6 @@ authors:
 date: 2021-07-26
 lastmod: 2021-07-26
 featured: true
-draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -20,6 +19,13 @@ draft: false
 #   focal_point: ""
 #   preview_only: false
 
+
+# Optional header image (relative to `assets/media/` folder or a URL).
+header:
+  caption: ""
+  image: https://static.fungenomics.com/images/2021/07/pexels-photo-262577.jpeg
+
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -27,10 +33,10 @@ draft: false
 #   Otherwise, set `projects = []`.
 projects: []
 
-draft: true
+draft: false
 ---
 
-![cover-image](https://static.fungenomics.com/images/2021/07/pexels-photo-262577.jpeg)
+<!-- ![cover-image](https://static.fungenomics.com/images/2021/07/pexels-photo-262577.jpeg) -->
 
 不知觉间，距离我写下第一篇关于 WGS 数据分析系列的文章已经过去了三年多（[WGS 系列文章](https://mp.weixin.qq.com/mp/homepage?__biz=MzAxOTUxOTM0Nw==&hid=1&sn=d945cf61bd86e85724e146df42af5bcc&scene=1&devicetype=android-29&version=28000753&lang=zh_CN&nettype=WIFI&ascene=59&session_us=gh_2942f3f5dbfe&wx_header=1)），时间真的快啊。
 

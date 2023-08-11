@@ -1,12 +1,12 @@
 ---
 title: Our Research
-summary: Describe our research questions and research style
+summary: Describe our research questions and area
 # date: "2021-09-28T00:00:00Z"
 
-# Optional header image (relative to `assets/media/` folder).
+# Optional header image (relative to `assets/media/` folder or a URL).
 header:
   caption: ""
-  image: ""
+  image: https://static.fungenomics.com/images/2021/07/pexels-photo-262577.jpeg
 ---
 
 The majority of human diseases are influenced by genomic variations. Therefore, elucidating the relationship between genomic sequences and biological traits as well as diseases, along with the interplay between genes and the environment, constitutes a powerful approach to understanding disease mechanisms and discovering new strategies for disease prevention and treatment. The advancements in domestic and international biobanks and sequencing technologies have provided unprecedented opportunities for identifying disease-causing genes and reconstructing biological networks. However, achieving the aforementioned objectives, whether through bioinformatics methods or mechanistic research approaches, still requires new breakthroughs. 

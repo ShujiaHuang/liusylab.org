@@ -6,11 +6,11 @@
 main:
 
   - name: Home
-    url: "/"  # "#about"
+    url: "#intro"  # "#about"
     weight: 1
 
   - name: Research
-    url: "research"
+    url: "#research"
     weight: 10
 
   - name: News
@@ -25,14 +25,13 @@ main:
     url: "#teaching"
     weight: 50
 
-  - name: Meet the Team
-    url: people
-    weight: 70
-
   - name: Join us
     url: "#joinus"
-    weight: 80
+    weight: 70
 
+  - name: Meet the Team
+    url: people
+    weight: 80
 
   - name: Contact
     url: contact

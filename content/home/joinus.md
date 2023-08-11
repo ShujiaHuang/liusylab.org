@@ -7,7 +7,7 @@ widget: pages
 # active: true 
 
 # Order that this section appears on the page.
-weight: 80
+weight: 70
 
 title: Join us
 subtitle: ''
@@ -38,4 +38,3 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-
