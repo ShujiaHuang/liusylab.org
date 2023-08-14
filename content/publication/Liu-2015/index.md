@@ -41,8 +41,10 @@ abstract: BackgroundComprehensive recognition of genomic variation in one indivi
 summary: ""
 
 tags:
-- Interneurons
-featured: false
+- bioinformatics
+- AsmVar
+
+featured: true
 
 # links:
 # - name: ""

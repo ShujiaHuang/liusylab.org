@@ -73,8 +73,10 @@ abstract: Ischemic stroke is a leading cause of global mortality and long-term d
 summary: ""
 
 tags:
-  - Interneurons
-featured: false
+  - STROMICS
+  - genomics
+
+featured: true
 
 # links:
 # - name: ""

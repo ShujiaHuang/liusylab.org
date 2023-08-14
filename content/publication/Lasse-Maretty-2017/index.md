@@ -145,8 +145,10 @@ abstract: Hundreds of thousands of human genomes are now being sequenced to char
 summary: ""
 
 tags:
-- Interneurons
-featured: false
+- GenomeDK
+- genomics
+
+featured: true
 
 # links:
 # - name: ""

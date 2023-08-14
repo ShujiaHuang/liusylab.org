@@ -102,8 +102,10 @@ abstract: We analyze whole-genome sequencing data from 141,431 Chinese women gen
 summary: ""
 
 tags:
-- Interneurons
-featured: false
+- genomics
+- NIPT
+
+featured: true
 
 # links:
 # - name: ""
