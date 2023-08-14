@@ -37,7 +37,7 @@ advanced:
 
 *At the **Siyang Liu Lab**, we study how to creatively integrate statistical human genetics and bioinformatics to elucidate disease mechanisms and facilitate new therapeutics*. 
 <!-- with a particular interest in XXXX.  -->
-*The group is directed by Siyang Liu at Sun Yat-sen University.*
+*The group is directed by Prof. [**Siyang Liu**](/author/siyang-liu/) at Sun Yat-sen University.*
 
 {{< icon name="microscope" pack="fas" >}} {{< staticref "/research" "newtab" >}} Our research {{< /staticref >}}
 
