@@ -6,11 +6,11 @@
 main:
 
   - name: About
-    url: "#intro"  # "#about"
+    url: "#"   # "#about"
     weight: 1
 
   - name: Research
-    url: "#research"
+    url: "research"
     weight: 10
 
   - name: News

@@ -3,7 +3,7 @@
 
 widget: slider 
 headless: true    # This file represents a page section.
-active: true      # Activate this widget? true/false
+active: false     # Activate this widget? true/false
 weight: 1         # Order that this section will appear.
 
 
@@ -19,8 +19,7 @@ item:
 - title: Welcome to Siyang Liu Lab
   align: center  # Choose `center`, `left`, or `right`.
   content: >-
-      *Creatively integrating statistical human genetics and bioinformatics to
-      elucidate disease mechanisms and facilitate new therapeutics*
+      *Creatively integrating statistical human genetics and bioinformatics to elucidate disease mechanisms and facilitate new therapeutics*
 
   overlay_color: '#1f4e74FF'   # An HTML color value.
   overlay_img: background.jpg  # circos-connectome.png # Image path relative to your `assets/media/` folder.
@@ -29,7 +28,7 @@ item:
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`
-  cta_icon: microscope # info
+  cta_icon: microscope   # info
   cta_icon_pack: fas
   cta_label: Our research
   cta_url: "research"
