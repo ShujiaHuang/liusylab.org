@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget: "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless: true       # This file represents a page section.
-active: true         # Activate this widget? true/false
+active: false        # Activate this widget? true/false
 weight: 30           # Order that this section will appear.
 
 title: "Projects"
@@ -32,8 +32,8 @@ content:
 
 
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: 3
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -67,10 +67,7 @@ background:
   text_color_light: true  
 
 
-advanced:
- # Custom CSS. 
- css_style: ""
-
- # CSS class.
- css_class: ""
+# advanced:
+ # css_style: ""
+ # css_class: ""
 ---
