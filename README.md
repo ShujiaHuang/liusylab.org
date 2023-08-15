@@ -45,7 +45,8 @@ hugo server --theme=hyde --minify --buildDrafts -w
 教程：<https://hugocodex.org/add-ons/image-gallery>
 通过 shortcodes 调用
 
-### Shortcode installation
+**Shortcode installation**
+
 - Step 1. Download the file [image-gallery.html](https://raw.githubusercontent.com/jhvanderschee/hugocodex/main/layouts/shortcodes/image-gallery.html)
 - Step 2. Save the file in the ‘layouts/shortcodes directory of your project
 - Step 3. Add the following line to your content on the place where you want the image gallery to appear:
