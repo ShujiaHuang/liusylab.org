@@ -30,9 +30,10 @@ design:
 
 # Add custom styles
 advanced:
-  css_style: "text-align: left"  # right, left
+  css_style: "text-align: left"  # center, right, left
   css_class:  # fullscreen
 ---
+
 <!-- ## *Creatively integrating statistical human genetics and bioinformatics to elucidate disease mechanisms and facilitate new therapeutics* -->
 
 *At the **Siyang Liu Lab**, we study how to creatively integrate statistical human genetics and bioinformatics to elucidate disease mechanisms and facilitate new therapeutics*. 

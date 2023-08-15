@@ -65,8 +65,8 @@ design:
   
 advanced:
  # Custom CSS. 
- css_style: ""
+ css_style: "foo"
 
  # CSS class.
- css_class: ""
+ css_class: "foo"
 ---
