@@ -69,3 +69,4 @@ design:
 ---
 
 {{< image-gallery gallery_dir="/media/albums" >}}
+
