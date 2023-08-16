@@ -78,7 +78,8 @@ hugo server --theme=hyde --minify --buildDrafts -w
 - [hugo搭建个人博客1-基础建站](https://shuzang.github.io/2019/hugo-blog-build-personal-blog/)
 - [搭建教学教程网站的例子](https://github.com/andrewheiss/datavizs21.classes.andrewheiss.com)
 - [教程网站](https://github.com/kjhealy/socviz880.co)
-
+- [doudnalab.org](https://doudnalab.org/)
+- [douymlab](https://douymlab.github.io/)
 
 
 
