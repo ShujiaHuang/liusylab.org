@@ -130,11 +130,6 @@ projects:
   talk_view: 2
 
 comments:
-  # Comment provider:
-  #   0: Disabled
-  #   1: Disqus (https://disqus.com)
-  #   2: Commento (https://commento.io)
-  provider:  "" # "disqus"  # 可以设为空
   commentable:
     page: true
     post: true
@@ -142,6 +137,11 @@ comments:
     project: true
     publication: true
     talk: true
+
+  # Comment provider:
+  #   1: disqus (https://disqus.com)
+  #   2: commento (https://commento.io)
+  provider:  # "disqus"  # 可以设为空
   disqus:
     shortname: ''     # Paste the shortname from your Disqus dashboard.
     show_count: true  # Show comment count in page header? (true/false)
