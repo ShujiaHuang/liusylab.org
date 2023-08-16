@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Python and computational biology"
+title: "R programming and statistical analysis"
 event: 
 event_url: 
 location: 
