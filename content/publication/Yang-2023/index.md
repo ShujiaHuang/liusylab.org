@@ -10,16 +10,16 @@ authors:
 - Yuandan Wei
 - Hao Zheng
 - Xinxin Guo
-- Guo-Bo Chen
+- "Guo-Bo Chen"
 - Yan Yang
 - Likuan Xiong
 - Fengxiang Wei
 - Siyang Liu
 
 author_notes:
-- Co-first author
-- Co-first author
-- Co-first author
+- "Co-first author"
+- "Co-first author"
+- "Co-first author"
 - 
 - 
 -
@@ -28,9 +28,9 @@ author_notes:
 -
 -
 -
-- Correspondence author
-- Correspondence author
-- Correspondence author
+- "Correspondence author"
+- "Correspondence author"
+- "Correspondence author"
 
 date: "2023-12-08"
 doi: "10.1182/blood.2023021925"
