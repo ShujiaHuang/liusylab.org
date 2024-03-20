@@ -1,5 +1,5 @@
 ---
-title: "The Born in Guangzhou Cohort Study enables generational genetic discoveries"
+title: "Genome-wide association and Mendelian randomisation analysis among 30,699 Chinese pregnant women identifies novel genetic and molecular risk factors for gestational diabetes and glycaemic traits"
 authors:
 - Jianxin Zhen
 - Yuqin Gu
