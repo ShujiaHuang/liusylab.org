@@ -74,6 +74,7 @@ summary: ""
 
 tags:
   - STROMICS
+  - Stroke
   - genomics
 
 featured: true

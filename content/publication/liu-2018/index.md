@@ -102,8 +102,8 @@ abstract: We analyze whole-genome sequencing data from 141,431 Chinese women gen
 summary: ""
 
 tags:
-- genomics
 - NIPT
+- genomics
 
 featured: true
 

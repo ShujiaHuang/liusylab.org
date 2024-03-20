@@ -20,3 +20,6 @@ pubmed-bibtex 27501986 > Young-Hee-Jeong-2016/cite.bib
 pubmed-bibtex 35871305 > Zhichao-Li-2022/cite.bib
 pubmed-bibtex 38064665 > Yang-2023/cite.bib
 pubmed-bibtex 38181733 > Bian-2024/cite.bib
+pubmed-bibtex 38297123 > S.J.Huang-2024/cite.bib
+pubmed-bibtex 38296585 > S.Y.Cheng-2024/cite.bib
+pubmed-bibtex 38372780 > J.Zhen-2024/cite.bib

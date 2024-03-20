@@ -63,7 +63,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.nature.com/articles/s41586-023-06988-4
+url_pdf: https://svn.bmj.com/content/early/2024/01/30/svn-2023-002717
 url_code: ''
 url_dataset: ''
 url_poster: ''
