@@ -32,7 +32,7 @@ author_notes:
 - 
 - "Correspondence author"
 
-date: "2024-01-31"
+date: "2024-02-19"
 doi: "10.1007/s00125-023-06065-5"
 
 # Schedule page publish date (NOT publication's date).
