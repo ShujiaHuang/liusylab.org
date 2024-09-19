@@ -39,7 +39,7 @@ jobs:
       # 将 public 目录上传到一个 docker 或者容器中，具体是不是没细看。
       # 这些都是自动产生的，放在哪我也不知道，本流程完成后系统自动销毁。
       - name: Upload a Build Artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: site
           path: public
@@ -52,7 +52,7 @@ jobs:
 
       # 将 build 步骤中生成的网站下载下来，放到 docker 或者容器里。
       - name: Download a Build Artifact
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v4
         with:
           name: site
 
