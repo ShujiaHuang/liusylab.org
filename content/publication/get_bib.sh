@@ -24,3 +24,4 @@ pubmed-bibtex 38297123 > S.J.Huang-2024/cite.bib
 pubmed-bibtex 38296585 > S.Y.Cheng-2024/cite.bib
 pubmed-bibtex 38372780 > J.Zhen-2024/cite.bib
 pubmed-bibtex 39266554 > Y.Wei-2024/cite.bib
+pubmed-bibtex 39389018 > S.Liu-2024/cite.bib
