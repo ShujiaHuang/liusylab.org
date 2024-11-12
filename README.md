@@ -1,6 +1,6 @@
-## [The website of liusyLab]
+## Siyang Liu Lab Website
 
-<liusylab.org> 
+<https://liusylab.org/> 
 
 ```bash
 git clone --recursive git@github.com:XXXXX
@@ -24,8 +24,6 @@ hugo new post/hello_world.md
 #hugo server --minify --buildDrafts -w
 hugo server --theme=hyde --minify --buildDrafts -w
 ```
-
-
 
 ## Abuout website
 
@@ -71,7 +69,25 @@ hugo server --theme=hyde --minify --buildDrafts -w
 - [**Build Websites with Hugo. Fast Web Development with Markdown**](https://pragprog.com/titles/bhhugo/build-websites-with-hugo/)
 - [**Hugo in Action - Static sites and dynamic Jamstack apps**](https://manning.com/books/hugo-in-action)
 
+
+## Hugo ICON
+
+- <https://github.com/hugo-mods/icons>
+- <https://fontawesome.com/>
+
+
+## 配置实验室网站的例子
+
+- https://www.youtube.com/watch?v=X4KzvWMKYaY
+
+
+
 ## 参考
+
+> <https://www.gohugo.org/>
+> hugo 的工作原理 <https://hugo.aiaide.com/post/hugo%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86/>
+> 主题： <https://github.com/wowchemy/starter-hugo-research-group>
+
 - [wowchemy academic tutorial](https://wowchemy.com/docs/hugo-tutorials/)
 - [Example](https://wowchemy.com/creators/)
 - [CAI4CAI 实验室例子](https://cai4cai.ml/)
@@ -82,46 +98,6 @@ hugo server --theme=hyde --minify --buildDrafts -w
 - [douymlab](https://douymlab.github.io/)
 
 
-
-## Hugo ICON
-
-- <https://github.com/hugo-mods/icons>
-- <https://fontawesome.com/>
-
-
-## 测试配置 meme 主题的例子
-
-- https://github.com/reuixiy/hugo-theme-meme/blob/master/README.zh-cn.md
-
-```bash
-$ hugo new "posts/hello-world.md"
-$ hugo new "about/_index.md"
-```
-
-## 配置实验室网站的例子
-
-- https://www.youtube.com/watch?v=X4KzvWMKYaY
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 参考
-
-> https://www.gohugo.org/
-> hugo 的工作原理 https://hugo.aiaide.com/post/hugo%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86/
-> 主题： https://github.com/wowchemy/starter-hugo-research-group
-
-
-
-## 封面风格参考
+## 封面风格
 
 - <http://www.circos.ca/images/mastheads/>
