@@ -1,4 +1,4 @@
-## Siyang Liu Lab Website
+## Website of Siyang Liu Lab
 
 <https://liusylab.org/> 
 
@@ -21,8 +21,8 @@ hugo new post/hello_world.md
 ## 启动 hugo 本地运行，测试
 
 ```bash
-#hugo server --minify --buildDrafts -w
-hugo server --theme=hyde --minify --buildDrafts -w
+#hugo server --theme=hyde --minify --buildDrafts -w
+hugo server --minify --buildDrafts -w
 ```
 
 ## Abuout website
@@ -55,9 +55,7 @@ hugo server --theme=hyde --minify --buildDrafts -w
 ```
 
 ## 工具
-
 <https://github.com/wowchemy/wowchemy-hugo-themes>
-
 - [**Hugo Academic CLI**](https://github.com/wowchemy/hugo-academic-cli/): Automatically import academic publications from BibTeX
 - [**Awesome Hugo**](https://github.com/wowchemy/awesome-hugo): Scripts to help migrate content to new versions of Hugo
 
