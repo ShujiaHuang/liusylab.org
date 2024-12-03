@@ -78,7 +78,7 @@ taxonomies:
   tag: tags
   category: categories
   publication_type: publication_types
-  author: member
+  author: authors
 
 related:
   threshold: 80
