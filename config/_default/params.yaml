@@ -90,14 +90,13 @@ show_related:
 reading_time: true
 
 # Display next/previous section pager? (true/false)
-section_pager: false
+section_pager: true
 
 # Enable in-built social sharing buttons? (true/false)
 sharing: true
 
 # Link authors to their profile page? (true/false)
 link_authors: true
-
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`. 未尝试，不确定对不对
@@ -128,6 +127,7 @@ projects:
   post_view: 2
   publication_view: 2
   talk_view: 2
+  news_view: 2
 
 comments:
   commentable:
