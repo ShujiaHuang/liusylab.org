@@ -1,8 +1,8 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-# widget: pages  # 注释掉了，页面将不显示 news 文件夹的内容 
-widget: blank
+widget: pages  # 注释掉了，页面将不显示 news 文件夹的内容 
+# widget: blank
 
 # This file represents a page section.
 headless: true
@@ -15,10 +15,10 @@ subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: news
+  page_type: post
 
   # Choose how much pages you would like to display (0 = all pages)
-  count: 5
+  count: 3
   
   # Choose how many pages you would like to offset by
   offset: 0
@@ -35,22 +35,26 @@ content:
     exclude_featured: false
 
 design:
+  # columns: 1
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
-  columns: '2'
 ---
 
+{{% callout note %}}
+Quickly access relevant news by viewing [all the lab News](./post/).
+{{% /callout %}}
+
 <!-- 实验室动态内容暂时放在这里，等之后学会新的表达形式之后再改  -->
-- **Jun 1 – Jun 4,2024** Lab Members Join the ESHG Conference 2024 in Berlin.
+
+<!-- - **Jun 1 – Jun 4,2024** Lab Members Join the ESHG Conference 2024 in Berlin.
 
 Siyang, Yanhong, Xinxin, and Yuandan attended the ESHG 2024 conference in Berlin. Siyang delivered a talk, while Yanhong was recognized as a Best Poster Candidate. Together with Xinxin and Yuandan, they presented three posters.
 
 ![image-20240610113518044](https://static.fungenomics.com/images/2024/06/image-20240610113518044.png)
-
 ![image-20240610113549005](https://static.fungenomics.com/images/2024/06/image-20240610113549005.png)
 
 - **May 18th, 2024** Congratulations to lab members Xinxin Guo, Zijing Yang and Yuandan Wei on successfully defending their work on May 18th, 2024
@@ -89,10 +93,4 @@ This afternoon, we had an enjoyable and enlightening scientific session with the
 
 ![image-20240610114148167](https://static.fungenomics.com/images/2024/06/image-20240610114148167.png)
 
-
-- The team is preparing for the defense on Jun 17th, 2023
-
-
-
-
-
+- The team is preparing for the defense on Jun 17th, 2023 -->

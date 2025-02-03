@@ -8,7 +8,7 @@
 
 /* 该 article-container 的值将优先于主题中 themes/academic/assets/scss/academic/_content.scss 的值被网站使用 */
 .article-container {
-    text-align: justify;  /* 把默认的左对齐改为两端对齐 */
+    // text-align: justify;  /* 把默认的左对齐改为两端对齐 */
     opacity: 1.0;
     width: 100%;
     height: auto;
@@ -20,7 +20,6 @@
 }
 
 // Make page header alignment consistent with widget page header alignment
-/*
 .universal-wrapper h1 {
   text-align: center;
 }
@@ -29,5 +28,4 @@
 .cta-group {
   justify-content: center;
 }
-*/
 
