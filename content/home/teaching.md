@@ -1,7 +1,6 @@
 ---
 # A Recent and Upcoming Talks section created with the Pages widget.
 # This section displays recent talks from `content/talk/`.
-
 widget: "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless: true       # This file represents a page section.
 active: false        # Activate this widget? true/false
@@ -65,8 +64,8 @@ design:
   
 advanced:
  # Custom CSS. 
- css_style: "foo"
+ #css_style: "foo"
 
  # CSS class.
- css_class: "foo"
+ #css_class: "foo"
 ---

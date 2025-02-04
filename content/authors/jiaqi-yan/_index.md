@@ -1,10 +1,10 @@
 ---
 # Display name: 中文和拼音
-title: Hao Zheng
+title: Jiaqi Yan
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Hao Zheng
+- Jiaqi Yan
 
 # Is this the primary user of the site?
 superuser: false
