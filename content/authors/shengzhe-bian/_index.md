@@ -19,13 +19,7 @@ organizations:
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  # - Postdocs
-  - Ph.D. Students
-  # - Master Students
-  # - Research Assistants
-  # - Grad Students
-  # - Alumni
-  # - External collaborator
+    - Alumni
 
 # 如果设置为 true 则不会在网站中显示
 draft: false

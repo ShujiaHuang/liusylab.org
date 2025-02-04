@@ -1,10 +1,10 @@
 ---
 # Display name: 中文和拼音
-title: Shi Jing
+title: Sicheng Huang
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Shi Jing
+- Sicheng Huang
 
 # Is this the primary user of the site?
 superuser: false
@@ -19,7 +19,13 @@ organizations:
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-- Alumni
+  # - Postdocs
+  # - Ph.D. Students
+  - Master Students
+  # - Research Assistants
+  # - Grad Students
+  # - Alumni
+  # - External collaborator
 
 # 如果设置为 true 则不会在网站中显示
 draft: false

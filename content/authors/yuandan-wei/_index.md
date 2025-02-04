@@ -21,8 +21,8 @@ organizations:
 user_groups:
   # - Postdocs
   # - Ph.D. Students
-  - Master Students
-  # - Research Assistants
+  # - Master Students
+  - Research Assistants
   # - Grad Students
   # - Alumni
   # - External collaborator

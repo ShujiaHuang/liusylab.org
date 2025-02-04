@@ -1,10 +1,10 @@
 ---
 # Display name: 中文和拼音
-title: Jiaqi Yan
+title: Hao Zheng
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Jiaqi Yan
+- Hao Zheng
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,10 +21,10 @@ organizations:
 user_groups:
   # - Postdocs
   # - Ph.D. Students
-  - Master Students
+  # - Master Students
   # - Research Assistants
   # - Grad Students
-  # - Alumni
+  - Alumni
   # - External collaborator
 
 # 如果设置为 true 则不会在网站中显示

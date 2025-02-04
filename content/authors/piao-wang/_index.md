@@ -19,7 +19,7 @@ organizations:
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-    - Former Students
+  - Alumni
 
 # 如果设置为 true 则不会在网站中显示
 draft: false

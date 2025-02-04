@@ -18,12 +18,13 @@ content:
   user_groups:
     - Principal Investigator
     - Postdocs
+    - Research Assistants
     - Ph.D. Students
     - Master Students
-    - Research Assistants
     - Grad Students
-    - Former Students
+    - Alumni
     - External collaborator
+    - 
   sort_by: Params.last_name
   sort_ascending: true
 design:
