@@ -1,20 +1,20 @@
 ---
 # Display name: 中文和拼音
-title: Yanhong Liu
+title: Chenxu Zhao
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Yanhong Liu
+- Chenxu Zhao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Postdoc in Epidemiology and Health Statistics
+role: Postdoc of Epidemiology and Statistics
 
 # Organizations/Affiliations
 organizations:
-- name: "School of Public Health (Shenzhen), Sun Yat-sen University" 
+- name: "Postdoctoral Researcher at the School of Public Health (Shenzhen), Sun Yat-sen University" 
   url: https://phs.sysu.edu.cn
 
 # Organizational groups that you belong to (for People widget)
