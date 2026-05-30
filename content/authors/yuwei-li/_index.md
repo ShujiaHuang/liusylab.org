@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student
+role: PhD
 
 # Organizations/Affiliations
 organizations:
-- name: "School of Public Health (Shenzhen), Sun Yat-sen University" 
-  url: https://phs.sysu.edu.cn
+- name: "PhD in Epidemiology and Health Statistics; Currently a Postdoctoral Researcher at Shenzhen University" 
+  url: https://med.szu.edu.cn/
 
 # Organizational groups that you belong to (for People widget)
 user_groups:

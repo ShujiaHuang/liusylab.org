@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: "School of Public Health (Shenzhen), Sun Yat-sen University" 
-  url: https://phs.sysu.edu.cn
+- name: "PhD in Epidemiology and Medical Statistics, Currently A Postdoctoral Researcher at Southern University of Science and Technology" 
+  url: https://sph.sustech.edu.cn/
 
 # Organizational groups that you belong to (for People widget)
 user_groups:

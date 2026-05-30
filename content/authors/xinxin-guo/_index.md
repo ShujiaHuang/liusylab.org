@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Master student
+role: M.Sc. in Epidemiology and Medical Statistics; RA at NCCD
 
 # Organizations/Affiliations
 organizations:
-- name: "School of Public Health (Shenzhen), Sun Yat-sen University" 
-  url: https://phs.sysu.edu.cn
+- name: "Currently a Research Assistant at the National Center for Cardiovascular Diseases" 
+  url: https://www.nccd.org.cn/
 
 # Organizational groups that you belong to (for People widget)
 user_groups:

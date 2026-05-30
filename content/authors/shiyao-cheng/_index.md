@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: MPH, PhD student at Pairs Brain Institute
+role: MPH
 
 # Organizations/Affiliations
 organizations:
-- name: "Currently a PhD Student at the Paris Brain Institute, Sorbonne Université"
+- name: "Master of Public Health, Currently a PhD Student at the Paris Brain Institute, Sorbonne Université"
   url: https://sante.sorbonne-universite.fr/en/structures-de-recherche/paris-brain-institute
 
 # Organizational groups that you belong to (for People widget)
