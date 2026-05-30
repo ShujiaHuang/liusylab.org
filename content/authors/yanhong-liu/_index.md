@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Postdoc in Epidemiology and Health Statistics
+role: MD, Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:

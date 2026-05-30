@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Public Health Physician and Researcher
+role: PhD in Epidemiology and Health Statistics
 
 # Organizations/Affiliations
 organizations:
-- name: "Shenzhen Maternity & Child Healthcare Hospital" 
+- name: "Currenlty a Public Health Physician and Researcher at Shenzhen Maternity & Child Healthcare Hospital" 
   url: https://www.szmch.net.cn/
 
 # Organizational groups that you belong to (for People widget)

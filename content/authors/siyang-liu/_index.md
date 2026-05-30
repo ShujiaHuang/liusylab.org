@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor, School of Public Health (Shenzhen), Sun Yat-sen University
+role: PhD in Bioinformatics, Associate Professor, Researcher
 
 #Organizations/Affiliations:
 organizations:

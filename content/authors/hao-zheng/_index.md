@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Master of Epidemiology and Health Statistics
+role: M.Sc in Epidemiology and Health Statistics
 
 # Organizations/Affiliations
 organizations:
@@ -21,10 +21,10 @@ organizations:
 user_groups:
   # - Postdocs
   # - Ph.D. Students
-  - Master Students
+  # - Master Students
   # - Research Assistants
   # - Grad Students
-  # - Alumni
+   - Alumni
   # - External collaborator
 
 # 如果设置为 true 则不会在网站中显示

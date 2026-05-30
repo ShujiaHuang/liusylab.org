@@ -10,21 +10,21 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD
+role: PhD in Epidemiology and Health Statistics
 
 # Organizations/Affiliations
 organizations:
-- name: "PhD in Epidemiology and Health Statistics; Currently a Postdoctoral Researcher at Shenzhen University" 
+- name: "Currently a Postdoctoral Researcher at Shenzhen University" 
   url: https://med.szu.edu.cn/
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
   # - Postdocs
-  - Ph.D. Students
+#- Ph.D. Students
   # - Master Students
   # - Research Assistants
   # - Grad Students
-  # - Alumni
+   - Alumni
   # - External collaborator
 
 # 如果设置为 true 则不会在网站中显示

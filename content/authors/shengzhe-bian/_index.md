@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Postdoctoral Researcher
+role: PhD in Epidemiology and Health Statistics
 
 # Organizations/Affiliations
 organizations:
-- name: "PhD in Epidemiology and Medical Statistics, Currently A Postdoctoral Researcher at Southern University of Science and Technology" 
+- name: "Currently a Postdoctoral Researcher at Southern University of Science and Technology" 
   url: https://sph.sustech.edu.cn/
 
 # Organizational groups that you belong to (for People widget)

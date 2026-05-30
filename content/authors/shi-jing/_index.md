@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Master of Public Health
+role: MPH
 
 # Organizations/Affiliations
 organizations:
