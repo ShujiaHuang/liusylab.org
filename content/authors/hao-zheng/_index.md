@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Master student
+role: Master of Epidemiology and Health Statistics
 
 # Organizations/Affiliations
 organizations:
-- name: "School of Public Health (Shenzhen), Sun Yat-sen University" 
-  url: https://phs.sysu.edu.cn
+- name: " currently a PhD student at the School of Public Health, Peking University" 
+  url: https://www.pku.edu.cn/
 
 # Organizational groups that you belong to (for People widget)
 user_groups:

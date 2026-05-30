@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: M.Sc. in Epidemiology and Medical Statistics; RA at NCCD
+role: M.Sc. in Epidemiology and Medical Statistics
 
 # Organizations/Affiliations
 organizations:

@@ -10,16 +10,16 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Master student
+role: Master of Public Health
 
 # Organizations/Affiliations
 organizations:
-- name: "School of Public Health (Shenzhen), Sun Yat-sen University" 
+- name: "Staff in the Longgang District Maternity and Child Healthcare Hospital of Shenzhen City," 
   url: https://phs.sysu.edu.cn
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Alumni
+    - Alumni
 
 # 如果设置为 true 则不会在网站中显示
 draft: false

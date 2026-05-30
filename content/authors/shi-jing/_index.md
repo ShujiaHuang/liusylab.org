@@ -10,16 +10,16 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Master student
+role: Master of Public Health
 
 # Organizations/Affiliations
 organizations:
-- name: "School of Public Health (Shenzhen), Sun Yat-sen University" 
-  url: https://phs.sysu.edu.cn
+- name: "Staff in the Ningxia Hui Autonomous Region Center for Disease Control and Prevention" 
+  url: https://wsjkw.nx.gov.cn/zzb/
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-- Alumni
+    - Alumni
 
 # 如果设置为 true 则不会在网站中显示
 draft: false

@@ -10,21 +10,21 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student
+role: Public Health Physician and Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: "School of Public Health (Shenzhen), Sun Yat-sen University" 
-  url: https://phs.sysu.edu.cn
+- name: "Shenzhen Maternity & Child Healthcare Hospital" 
+  url: https://www.szmch.net.cn/
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
   # - Postdocs
-  - Ph.D. Students
+  # - Ph.D. Students
   # - Master Students
   # - Research Assistants
   # - Grad Students
-  # - Alumni
+  - Alumni
   # - External collaborator
 
 # 如果设置为 true 则不会在网站中显示
