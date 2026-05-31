@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD student
+role: PhD student in Epidemiology and Health Statistics
 
 # Organizations/Affiliations
 organizations:

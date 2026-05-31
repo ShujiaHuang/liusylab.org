@@ -148,7 +148,7 @@ Associate Professor, Unit of Medical Statistics and Systems Biology, School of P
 ) & [Anders Albrechtsen](http://www.popgen.dk/groupWiki/index.php/Anders_Albrechtsen)
 - 2012/09-2015/04   MSc in Bioinformatics, Bioinformatics Center, University of Copenhagen, Supervisor： Prof. [Anders Krogh](https://research.ku.dk/search/result/?pure=en%2Fpersons%2Fanders-krogh(109cd77e-27eb-47b9-997f-eab877a0f429).html
 )
-- 2007/09-2011/07   BSc in Ecology, Department of Life Science, Sun Yat-sen University
+- 2007/09-2011/07   BSc in Life Science, Department of Life Science, Sun Yat-sen University
 
 
 **Teaching**
