@@ -44,10 +44,10 @@ slides: ""
 projects: ""
 ---
 
-![Image-20260619123538-625-60](./Image_20260619123538_625_60.jpg)
+![Image-20260619123538-625-60](https://github.com/ShujiaHuang/liusylab.org/blob/main/content/pictures/Image_20260619123538_625_60.jpg)
 <center>Group photo at Xiangshan Library, Shenzhen Campus</center>
 
-![Image-20260619123142-579-60](./Image_20260619123142_579_60.jpg)
+![Image-20260619123142-579-60](https://github.com/ShujiaHuang/liusylab.org/blob/main/content/pictures/Image_20260619123142_579_60.jpg)
 <center>Graduation Bear</center>
 
 
