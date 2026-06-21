@@ -6,9 +6,9 @@ title: Congratulations on group members' graduation!
 #event_url: https://phs.sysu.edu.cn/zh-hans/article/704
 
 
-abstract: Congratulations to Zhen Lu, Xingchen Lin, Sicheng Huang, Zehua Huang, Yalei Huang, and Beining Zhang!
+abstract: Congratulations to Yuqin Gu, Yanhong Liu, Yuwei Li, Hao Zheng, and Shiyao Cheng!
 
-date: "2026-06-18"
+date: "2025-06-17"
 
 
 authors: []
