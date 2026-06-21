@@ -1,14 +1,14 @@
 ---
-title: Lecture by Dr. Chuan Li on 'Understanding Tumor Progression and Therapeutic Responses Using Sequencing and Modeling Approaches'
+title: Lecture by Prof. Gary Wing-Kin Wong on 'Why your best research work is rejected for publications by top journals'
 
 
 #event: STROMICS Study
 #event_url: https://phs.sysu.edu.cn/zh-hans/article/704
 
 
-abstract: Dr. Chuan Li from Stanford University presented her innovative work on tumor research through the integration of biotechnology and information technology.
+abstract: Prof. Gary Wing-Kin Wong, an editor of the New England Journal of Medicine, delivered an insightful lecture on the principles of rigorous study design, common reasons why high-quality research is rejected by leading journals, and strategies for enhancing the impact and publishability of scientific work.
 
-date: "2024-04-16"
+date: "2025-02-17"
 
 
 authors: []
@@ -42,11 +42,5 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: ""
-
 ---
-
-
-
-
-
 

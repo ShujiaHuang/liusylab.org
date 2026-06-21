@@ -1,19 +1,19 @@
 ---
-title: Lecture by Dr. Chuan Li on 'Understanding Tumor Progression and Therapeutic Responses Using Sequencing and Modeling Approaches'
+title: Congratulations on group members' graduation! 
 
 
 #event: STROMICS Study
 #event_url: https://phs.sysu.edu.cn/zh-hans/article/704
 
 
-abstract: Dr. Chuan Li from Stanford University presented her innovative work on tumor research through the integration of biotechnology and information technology.
+abstract: Congratulations to Zhen Lu, Xingchen Lin, Sicheng Huang, Zehua Huang, Yalei Huang, and Beining Zhang!
 
-date: "2024-04-16"
+date: "2026-06-18"
 
 
 authors: []
 tags:
-  - Lectures
+  - Graduation
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -42,11 +42,5 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: ""
-
 ---
-
-
-
-
-
 
