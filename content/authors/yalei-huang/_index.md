@@ -1,27 +1,27 @@
 ---
 # Display name: 中文和拼音
-title: Zhen Lu
+title: Yalei Huang
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Zhen Lu
+- Yalei Huang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD in Epidemiology and Health Statistics
+role: Master student in Epidemiology and Health Statistics
 
 # Organizations/Affiliations
 organizations:
-- name: "currently a PhD student at the School of Public Health, Peking University" 
+- name: "Faculty of Medicine, Sun Yat-sen University" 
   url: https://phs.sysu.edu.cn
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
   # - Postdocs
-  - Ph.D. Students
-  # - Master Students
+  # - Ph.D. Students
+  - Master Students
   # - Research Assistants
   # - Grad Students
   # - Alumni
