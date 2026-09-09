@@ -14,17 +14,18 @@ role: PhD in Epidemiology and Health Statistics
 
 # Organizations/Affiliations
 organizations:
-- name: "currently a PhD student at the School of Public Health, Peking University" 
-  url: https://phs.sysu.edu.cn
+- name: "Full Time Post-Doctoral Fellow at VA St. Louis Healthcare System, employed with the Veterans Research and Education Foundation of St. Louis"
+  url: https://www.va.gov/st-louis-health-care/
+  url: https://leslie-lu.github.io/
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
   # - Postdocs
-  - Ph.D. Students
+  # - Ph.D. Students
   # - Master Students
   # - Research Assistants
   # - Grad Students
-  # - Alumni
+  - Alumni
   # - External collaborator
 
 # 如果设置为 true 则不会在网站中显示
