@@ -16,7 +16,7 @@ role: PhD in Epidemiology and Health Statistics
 organizations:
 - name: "Full Time Post-Doctoral Fellow at VA St. Louis Healthcare System, employed with the Veterans Research and Education Foundation of St. Louis"
   url: https://www.va.gov/st-louis-health-care/
-  url: https://leslie-lu.github.io/
+  #url: https://leslie-lu.github.io/
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
