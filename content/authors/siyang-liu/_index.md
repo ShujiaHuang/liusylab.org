@@ -119,7 +119,7 @@ organizations:
 
 Dr. Siyang Liu is a tenured Associate Professor of Medical Bioinformatics at Zhongshan School of Medicine, Sun Yat-sen University. She received her BSc in Biology from Sun Yat-sen University in 2011, followed by an MSc and a PhD in Bioinformatics from the University of Copenhagen in 2015 and 2017, respectively. Before joining Sun Yat-sen University in 2021, she held positions as a Senior Bioinformatics Engineer and Senior Research Scientist at BGI.
 
-Her research focuses on developing and applying large-scale data analytics, statistical genetics, and bioinformatics methods to elucidate disease mechanisms and advance therapeutic discovery, with a particular interest in major diseases affecting women and children. She has led research projects supported by the National Natural Science Foundation of China (NSFC) and Innovation Fund Denmark (Innovationsfonden). As a (co-)first or corresponding author, she has published in prestigious journals such as Cell, Nature, Nature Genetics, Blood, the Journal of Hepatology, and Nature Communications.
+Her research focuses on developing and applying large-scale data analytics, statistical genetics, and bioinformatics methods to elucidate disease mechanisms and advance therapeutic discovery, with a particular interest in major diseases affecting women and children. She has led research projects supported by the National Natural Science Foundation of China (NSFC) and Innovation Fund Denmark (Innovationsfonden). As a (co-)first or corresponding author, she has published her work in prestigious journals such as Cell, Nature, Nature Genetics, Blood, the Journal of Hepatology, and Nature Communications.
 
 
 **Current Position**
@@ -136,7 +136,7 @@ Associate Professor, Department of Genetics and Biomedical Informatics, Zhongsha
 - Committee Member, Technical Committee on Digital Healthcare Systems Engineering, Systems Engineering Society of China
 
 **Professional Experience**
-- Jul 2026–Present | Associate Professor Zhongshan School of Medicine, Sun Yat-sen University
+- Jul 2026–Present | Associate Professor, Zhongshan School of Medicine, Sun Yat-sen University
 - Jan 2021–Jul 2026 | Associate Professor, School of Public Health (Shenzhen), Sun Yat-sen University
 - Jan 2020–Dec 2020 | Senior Research Scientist, BGI-Shenzhen Life-Science Institute
 - Jan 2018–Dec 2019 | Senior Bioinformatics Engineer, BGI-Shenzhen Life-Science Institute
@@ -151,23 +151,17 @@ Associate Professor, Department of Genetics and Biomedical Informatics, Zhongsha
 
 
 **Teaching**
-- R Programming and Statistical Analysis
 - Programming for Medical Informatics
+- Python and Data Science
+- R Programming and Statistical Analysis
 - Introduction to Artificial Intelligence
 - Medical Statistics
-- Python and Data Science
 - Bioinformatics
 
 
 **Grants**
 
 As Principal Investigator
-- National Key Research and Development Program Project: Mechanisms of Ischemic Cerebrovascular Disease Occurrence and Development Based on Multi-omics Approaches, 2022.12 – 2025.12, 15,000,000RMB, Project Core Member
-- National Key Research and Development Program Project: Research on Infection and Transmission Characteristics of Respiratory Viruses, Including the Novel Coronavirus, 2021.12 – 2024.11, 29,570,000RMB, Project Core Member
-- Guangdong Provincial Basic and Applied Basic Research Fund - Key Project: 2022.01 – 2025.09, 1,000,000 RMB, co-Principal Investigator
-- Shenzhen Stable Support Program: 2022.09.01 – 2025.08.31, 300,000RMB, Principal Investigator
-- Sun Yat-sen University "Hundred Talents Program": 2021.01 – 2023.12, 600,000 RMB, Principal Investigator
-- National Natural Science Foundation of China (NSFC) Young Scientists Fund Project: 2020.01 – 2022.12, 250,000 RMB, Principal Investigator
 - National Natural Science Foundation of China (NSFC), Young Scientists Fund (Category B) (formerly the Excellent Young Scientists Fund). Development and Application of Methods for Elucidating the Causes of Maternal and Infant Diseases Using Large-Scale Healthcare Data. Jan 2026–Dec 2028. Ongoing.
 - NSFC, General Program. Development and Application of Life-Course Mendelian Randomization Methods to Investigate the Origins of Health and Disease. Jan 2025–Dec 2028. Ongoing.
 - NSFC, Young Scientists Fund. Genome-Wide Association Studies Using Low-Coverage Sequencing Data. Jan 2020–Dec 2022. Completed.
@@ -187,7 +181,7 @@ As Participant
 1. Liu S#*, Zheng H#, Gu Y#, Yang Z#, Zhen J#, Wei Y, Liu Y, Chen Y, Wan Z, Guo X, Hu L, Chen X, Li X, Qiu X, Huang S, Chen GB, Hu Z, Namba S, Kanai M, Matsuda K, Okada Y*, Zhang Q*, Wei F*. Genome-wide association analyses of gestational phenotypes identify context-specific genetic effects. Nature Genetics. 2026 (Website: https://monn.pheweb.com/)
 2. Li Y#, Lin YF#, Cai B, Chen F, Zhang Q, Liu S*, Zhen J*. Modelling the epidemic dynamics of HPV among women in China and optimization of ongoing cervical cancer elimination strategies. BMC Medicine. 2026
 3. Cheng S#, Wei Y#, Zheng H, Zhang Q, Yang X, Lu Z, Huang Z, Wan Z, Shi Y, Zhang J, Choi JC, Kang CH, Kim HJ, Kim JG, Bae HJ, Lee J, Lee JY, Jung H, Guo C, Liao X, Wu J, Meng X, Li Z, Debette S, Li H, Wang Y, Cheng S*, Liu S*. Artificial intelligence-powered delta-NIHSS-based model for predicting recurrence, disability and mortality after acute ischaemic strokes (DISCO): a modelling study. eClinicalMedicine. 2025 (Website: https://www.discosysu.cn/)
-4. Gu Y#, Zheng H#, Wang P#, Liu Y, Guo X, Wei Y, Yang Z, Cheng S, Chen Y, Hu L, Chen X, Zhang Q, Chen G, Wei F*, Zhen J*, Liu S*. Genetic architecture and risk prediction of gestational diabetes mellitus in Chinese pregnancies. Nature Communications. 2025 
+4. Gu Y#, Zheng H#, Wang P#, Liu Y, Guo X, Wei Y, Yang Z, Cheng S, Chen Y, Hu L, Chen X, Zhang Q, Chen G, Wei F*, Zhen J*, Liu S*. Genetic architecture and risk prediction of gestational diabetes mellitus in Chinese pregnancies. Nature Communications. 2025
 5. Liu Y#, Wei Y#, Chen X#, Huang S#, Gu Y, Yang Z, Guo X, Zheng H, Feng H,  Huang M, Chen S, Xiao T, Hu L, Zhang Q, Zhang Y, Chen G, Qiu X*, Wei F*, Zhen J*, Liu S*. Genetic study of intrahepatic cholestasis of pregnancy in Chinese women unveils East Asian etiology linked to historic HBV epidemic. Journal of Hepatology. 2025 (Cover Story)
 6. Yang Z#, Hu L#, Zhen J#, Gu Y, Liu Y, Huang S, Wei Y, Zheng H, Guo X, Chen G, Yang Y, Xiong L*, Wei F*, Liu S*. Genetic Basis of Altered Platelet Counts and Gestational Thrombocytopenia in Pregnancy. Blood. 2024
 7. Wei Y#, Zhen J#, Hu L#, Gu Y, Liu Y, Guo X, Yang Z, Zheng H, Cheng S, Wei F*, Xiong L*, Liu S*. Genome-wide association studies of thyroid-related hormones, dysfunction, and autoimmunity among 85,421 Chinese pregnancies. Nature Communications. 2024
@@ -199,7 +193,6 @@ As Participant
 13. Cheng S, Zheng H, Wei Y, Lin X, Gu Y, Guo X, Fan Z, Li H, Cheng S*, Liu S*. Gut Microbiome and Stroke: a Bidirectional Mendelian Randomisation Study in East Asian and European Populations. Stroke and Vascular Neurology. 2024
 14. Cheng S#, Xu Z#, Bian S, Chen X, Shi Y, Li Y, Duan Y, Liu Y, Lin J, Jiang Y, Jing J, Li Z, Wang Y, Meng X, Liu Y, Fang M, Jin X, Xu X, Wang J, Wang C, Li H, Liu S*, Wang Y*. The STROMICS genome study: deep whole genome sequencing and analysis of 10K Chinese patients with ischemic stroke reveal complex. Cell Discovery. 2023
 15. Liu S#, Huang S#, Chen F#, Zhao L#, Yuan Y#, Francis S, Fang L, Li Z, Lin L, Liu R, Zhang Y, Xu H, Li S, Zhou Y, Liu Q, Walters R, Lin K, Ju J, Korneliussen T, Yang M, Fu Q, Wang J, Zhou L, Krogh A, Zhang H, Wang W, Chen Z, Yin Y, Yang H, Mao M, Shendure J, Wang J*, Albrechtsen A*, Jin X*, Nielsen R*, Xu X*. Genomic Analyses from Non-invasive Prenatal Testing Reveal Genetic Associations, Patterns of Viral Infections, and Chinese Population History. Cell. 2018
-
 
 **Patents** 
 1. Base Mutation Detection Method and Apparatus Based on Sequencing Data, and Storage Medium. 2023. PCT/CN2019/086972. Granted in China, Europe, the United States, Hong Kong, Saudi Arabia, Vietnam, and Malaysia.
