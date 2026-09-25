@@ -116,6 +116,7 @@ organizations:
 ---
 
 **Biography**
+
 Dr. Siyang Liu is a tenured Associate Professor of Medical Bioinformatics at Zhongshan School of Medicine, Sun Yat-sen University. She received her BSc in Biology from Sun Yat-sen University in 2011, followed by an MSc and a PhD in Bioinformatics from the University of Copenhagen in 2015 and 2017, respectively. Before joining Sun Yat-sen University in 2021, she held positions as a Senior Bioinformatics Engineer and Senior Research Scientist at BGI.
 
 Her research focuses on developing and applying large-scale data analytics, statistical genetics, and bioinformatics methods to elucidate disease mechanisms and advance therapeutic discovery, with a particular interest in major diseases affecting women and children. She has led research projects supported by the National Natural Science Foundation of China (NSFC) and Innovation Fund Denmark (Innovationsfonden). As a (co-)first or corresponding author, she has published in prestigious journals such as Cell, Nature, Nature Genetics, Blood, the Journal of Hepatology, and Nature Communications.
@@ -127,21 +128,21 @@ Associate Professor, Department of Genetics and Biomedical Informatics, Zhongsha
 
 
 **Additional Academic Appointments**
-Member of State Key Laboratory of Reproductive Medicine and Offspring Health
-Member of Key Laboratory of Environment and Children’s Health, Ministry of Education and Shanghai Municipality
-Standing Committee Member, Environmental and Maternal–Child Health Committee, Chinese Environmental Mutagen Society
-Standing Committee Member, Multi-Omics Branch, Chinese Stroke Association
-Committee Member, Technical Committee on Digital Healthcare Systems Engineering, Systems Engineering Society of China
+
+- Member of State Key Laboratory of Reproductive Medicine and Offspring Health
+- Member of Key Laboratory of Environment and Children’s Health, Ministry of Education and Shanghai Municipality
+- Standing Committee Member, Environmental and Maternal–Child Health Committee, Chinese Environmental Mutagen Society
+- Standing Committee Member, Multi-Omics Branch, Chinese Stroke Association
+- Committee Member, Technical Committee on Digital Healthcare Systems Engineering, Systems Engineering Society of China
 
 **Professional Experience**
-Jul 2026–Present | Associate Professor Zhongshan School of Medicine, Sun Yat-sen University
-Jan 2021–Jul 2026 | Associate Professor, School of Public Health (Shenzhen), Sun Yat-sen University
-Jan 2020–Dec 2020 | Senior Research Scientist, BGI-Shenzhen Life-Science Institute
-Jan 2018–Dec 2019 | Senior Bioinformatics Engineer, BGI-Shenzhen Life-Science Institute
+- Jul 2026–Present | Associate Professor Zhongshan School of Medicine, Sun Yat-sen University
+- Jan 2021–Jul 2026 | Associate Professor, School of Public Health (Shenzhen), Sun Yat-sen University
+- Jan 2020–Dec 2020 | Senior Research Scientist, BGI-Shenzhen Life-Science Institute
+- Jan 2018–Dec 2019 | Senior Bioinformatics Engineer, BGI-Shenzhen Life-Science Institute
 
 
 **Education/Training**
-
 - 2015/05-2017/12   PhD in Bioinformatics, University of Copenhagen, Supervisor： Profs. [Anders Krogh](https://research.ku.dk/search/result/?pure=en%2Fpersons%2Fanders-krogh(109cd77e-27eb-47b9-997f-eab877a0f429).html
 ) & [Anders Albrechtsen](https://website.popgen.dk/)
 - 2012/09-2015/04   MSc in Bioinformatics, University of Copenhagen, Supervisor： Prof. [Anders Krogh](https://research.ku.dk/search/result/?pure=en%2Fpersons%2Fanders-krogh(109cd77e-27eb-47b9-997f-eab877a0f429).html
@@ -159,6 +160,7 @@ Jan 2018–Dec 2019 | Senior Bioinformatics Engineer, BGI-Shenzhen Life-Science 
 
 
 **Grants**
+
 As Principal Investigator
 - National Key Research and Development Program Project: Mechanisms of Ischemic Cerebrovascular Disease Occurrence and Development Based on Multi-omics Approaches, 2022.12 – 2025.12, 15,000,000RMB, Project Core Member
 - National Key Research and Development Program Project: Research on Infection and Transmission Characteristics of Respiratory Viruses, Including the Novel Coronavirus, 2021.12 – 2024.11, 29,570,000RMB, Project Core Member
@@ -197,7 +199,6 @@ As Participant
 13. Cheng S, Zheng H, Wei Y, Lin X, Gu Y, Guo X, Fan Z, Li H, Cheng S*, Liu S*. Gut Microbiome and Stroke: a Bidirectional Mendelian Randomisation Study in East Asian and European Populations. Stroke and Vascular Neurology. 2024
 14. Cheng S#, Xu Z#, Bian S, Chen X, Shi Y, Li Y, Duan Y, Liu Y, Lin J, Jiang Y, Jing J, Li Z, Wang Y, Meng X, Liu Y, Fang M, Jin X, Xu X, Wang J, Wang C, Li H, Liu S*, Wang Y*. The STROMICS genome study: deep whole genome sequencing and analysis of 10K Chinese patients with ischemic stroke reveal complex. Cell Discovery. 2023
 15. Liu S#, Huang S#, Chen F#, Zhao L#, Yuan Y#, Francis S, Fang L, Li Z, Lin L, Liu R, Zhang Y, Xu H, Li S, Zhou Y, Liu Q, Walters R, Lin K, Ju J, Korneliussen T, Yang M, Fu Q, Wang J, Zhou L, Krogh A, Zhang H, Wang W, Chen Z, Yin Y, Yang H, Mao M, Shendure J, Wang J*, Albrechtsen A*, Jin X*, Nielsen R*, Xu X*. Genomic Analyses from Non-invasive Prenatal Testing Reveal Genetic Associations, Patterns of Viral Infections, and Chinese Population History. Cell. 2018
-
 
 
 **Patents** 
