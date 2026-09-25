@@ -115,6 +115,7 @@ organizations:
     url: https://szmed.sysu.edu.cn/zh-hans/teacher/3740
 ---
 
+**Biography**
 Dr. Siyang Liu is a tenured Associate Professor of Medical Bioinformatics at Zhongshan School of Medicine, Sun Yat-sen University. She received her BSc in Biology from Sun Yat-sen University in 2011, followed by an MSc and a PhD in Bioinformatics from the University of Copenhagen in 2015 and 2017, respectively. Before joining Sun Yat-sen University in 2021, she held positions as a Senior Bioinformatics Engineer and Senior Research Scientist at BGI.
 
 Her research focuses on developing and applying large-scale data analytics, statistical genetics, and bioinformatics methods to elucidate disease mechanisms and advance therapeutic discovery, with a particular interest in major diseases affecting women and children. She has led research projects supported by the National Natural Science Foundation of China (NSFC) and Innovation Fund Denmark (Innovationsfonden). As a (co-)first or corresponding author, she has published in prestigious journals such as Cell, Nature, Nature Genetics, Blood, the Journal of Hepatology, and Nature Communications.
