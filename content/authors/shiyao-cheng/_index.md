@@ -1,4 +1,6 @@
 ---
+# Keep the off-center face fully visible in the team portrait crop.
+avatar_crop_anchor: Right
 # Display name: 中文和拼音
 title: Shiyao Cheng
 
