@@ -51,3 +51,15 @@
   border-radius: 0;
   background: transparent;
 }
+
+// Author detail pages use the same two-inch portrait size as the team page.
+#profile img.author-portrait {
+  display: block;
+  width: 150px;
+  height: 210px;
+  margin: 0 auto;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 0;
+  background: transparent;
+}
