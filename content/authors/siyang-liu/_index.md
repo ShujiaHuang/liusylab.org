@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD in Bioinformatics, Associate Professor in Medical Bioinformatics
+role: PhD in Bioinformatics, Associate Professor in Biomedical Informatics
 
 #Organizations/Affiliations:
 organizations:
