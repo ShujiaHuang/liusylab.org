@@ -30,10 +30,21 @@
 }
 
 
-// Keep the entire author photo visible in a consistent team portrait frame.
-.people-widget .people-person img.people-avatar {
+// Standard two-inch portrait ratio (35:49), preserving the complete photo.
+.people-widget .people-avatar-frame {
+  display: block;
   width: 150px;
-  height: 150px;
+  height: 210px;
+  margin: 0 auto;
+  background: #f3f4f6;
+}
+
+.people-widget .people-person .people-avatar-frame img.people-avatar {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  margin: 0;
   object-fit: contain;
   object-position: center;
   border-radius: 0;
