@@ -45,7 +45,7 @@ author_notes:
 - "Correspondence author"
 - "Correspondence author"
 
-date: "2024-11-13"
+date: "2025-05-01"
 doi: "10.1016/j.jhep.2024.11.008"
 
 # Schedule page publish date (NOT publication's date).

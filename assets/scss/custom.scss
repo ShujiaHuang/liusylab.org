@@ -30,13 +30,14 @@
 }
 
 
-// Standard two-inch portrait ratio (35:49), preserving the complete photo.
+// Standard two-inch portrait ratio (35:49), filled with a centered crop.
 .people-widget .people-avatar-frame {
   display: block;
   width: 150px;
   height: 210px;
   margin: 0 auto;
-  background: #f3f4f6;
+  overflow: hidden;
+  background: transparent;
 }
 
 .people-widget .people-person .people-avatar-frame img.people-avatar {
@@ -45,7 +46,7 @@
   height: 100%;
   max-width: none;
   margin: 0;
-  object-fit: contain;
+  object-fit: cover;
   object-position: center;
   border-radius: 0;
   background: transparent;
