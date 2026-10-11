@@ -29,3 +29,13 @@
   justify-content: center;
 }
 
+
+// Keep the entire author photo visible in a consistent team portrait frame.
+.people-widget .people-person img.people-avatar {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  object-position: center;
+  border-radius: 0;
+  background: transparent;
+}

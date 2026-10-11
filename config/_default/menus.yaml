@@ -29,7 +29,7 @@ main:
     url: "#joinus"
     weight: 70
 
-  - name: Meet the Team
+  - name: People
     url: people
     weight: 80
 
