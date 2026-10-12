@@ -77,8 +77,7 @@ tags:
   - Stroke
   - genomics
 
-featured: true
-
+featured: false
 # links:
 # - name: ""
 #   url: ""

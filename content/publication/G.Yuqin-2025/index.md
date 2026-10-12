@@ -62,7 +62,8 @@ tags:
 - 
 
 
-featured: false
+featured: true
+featured_order: 7
 
 # links:
 # - name: ""

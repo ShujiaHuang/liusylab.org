@@ -56,7 +56,8 @@ tags:
 - Thyroid gland
 - Genome-Wide Association Study
 
-featured: false
+featured: true
+featured_order: 8
 
 # links:
 # - name: ""

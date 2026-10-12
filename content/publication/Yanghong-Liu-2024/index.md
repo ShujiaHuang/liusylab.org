@@ -84,7 +84,8 @@ tags:
 - Intrahepatic cholestasis during pregnancy
 
 
-featured: false
+featured: true
+featured_order: 5
 
 # links:
 # - name: ""

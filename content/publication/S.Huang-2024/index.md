@@ -66,6 +66,7 @@ tags:
 - BIGCS
 
 featured: true
+featured_order: 2
 
 # links:
 # - name: ""

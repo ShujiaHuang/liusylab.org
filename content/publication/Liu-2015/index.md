@@ -44,8 +44,7 @@ tags:
 - bioinformatics
 - AsmVar
 
-featured: true
-
+featured: false
 # links:
 # - name: ""
 #   url: ""

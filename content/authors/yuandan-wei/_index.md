@@ -14,7 +14,7 @@ role: MPH
 
 # Organizations/Affiliations
 organizations:
-- name: "School of Public Health (Shenzhen), Sun Yat-sen University" 
+- name: "Zhongshan School of Medicine, Sun Yat-sen University"
   url: https://phs.sysu.edu.cn
 
 # Organizational groups that you belong to (for People widget)

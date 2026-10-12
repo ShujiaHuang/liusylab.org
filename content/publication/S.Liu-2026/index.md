@@ -77,7 +77,8 @@ tags:
 - Maternal and Child Health
 - Statistical Genetics
 
-featured: false
+featured: true
+featured_order: 3
 
 # links:
 # - name: ""

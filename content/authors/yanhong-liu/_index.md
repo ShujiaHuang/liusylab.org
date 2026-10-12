@@ -14,8 +14,8 @@ role: MD, Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: "School of Public Health (Shenzhen), Sun Yat-sen University" 
-  url: https://phs.sysu.edu.cn
+- name: "Zhongshan School of Medicine, Sun Yat-sen University"
+  url: https://szmed.sysu.edu.cn/zh-hans/teacher/3744
 
 # Organizational groups that you belong to (for People widget)
 user_groups:

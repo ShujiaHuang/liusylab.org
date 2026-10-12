@@ -76,7 +76,8 @@ tags:
 - population structure
 - genome-wide association analysis
 
-featured: false
+featured: true
+featured_order: 4
 
 # links:
 # - name: ""

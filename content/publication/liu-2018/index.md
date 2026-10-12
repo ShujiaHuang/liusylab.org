@@ -106,6 +106,7 @@ tags:
 - genomics
 
 featured: true
+featured_order: 1
 
 # links:
 # - name: ""
